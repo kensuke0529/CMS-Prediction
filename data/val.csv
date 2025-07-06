@@ -1,0 +1,934 @@
+10809.727273,510058,Camden Clark Medical Center,Parkersburg,26101.0,WV,374,metro_core,374
+8837.375,170142,"Ascension Via Christi Hospital Manhattan, Inc",Manhattan,66502.0,KS,682,metro_core,682
+4826.3125,370114,Ascension St John Medical Center,Tulsa,74104.0,OK,069,metro_core,069
+2582.3846154,180130,Baptist Health Louisville,Louisville,40207.0,KY,684,metro_core,684
+47232.846154,050235,Providence Saint Joseph Medical Ctr,Burbank,91505.0,CA,025,metro_core,025
+18842.818182,330153,Ellis Hospital,Schenectady,12308.0,NY,521,metro_core,521
+10587.2,070025,Hartford Hospital,Hartford,6102.0,CT,193,metro_core,193
+70071.714286,050038,Santa Clara Valley Medical Center,San Jose,95128.0,CA,673,metro_core,673
+16624.615385,340091,Cone Health,Greensboro,27401.0,NC,082,metro_core,082
+12916.333333,220171,"Lahey Hospital & Medical Center, Burlington",Burlington,1803.0,MA,388,metro_core,388
+5633.75,100220,Gulf Coast Medical Center Lee Mem Health System,Fort Myers,33912.0,FL,442,metro_core,442
+14057.607143,490057,Sentara Virginia Beach General Hospital,Virginia Beach,23454.0,VA,243,metro_core,243
+30009.235294,450044,Ut Southwestern University Hospital,Dallas,75390.0,TX,025,metro_core,025
+16209.176471,490024,Carilion Roanoke Memorial Hospital,Roanoke,24014.0,VA,027,metro_core,027
+11161.863636,190202,Ochsner Medical Center - Baton Rouge,Baton Rouge,70816.0,LA,871,metro_core,871
+22105.023256,370114,Ascension St John Medical Center,Tulsa,74104.0,OK,274,metro_core,274
+15998.867925,440091,"Memorial Healthcare System, Inc",Chattanooga,37404.0,TN,480,metro_core,480
+7676.2083333,310086,Jefferson Stratford Hospital,Stratford,8084.0,NJ,661,metro_core,661
+5659.3125,440187,Livingston Regional Hospital,Livingston,38570.0,TN,683,secondary_flow_micro,683
+13587.454545,440120,Tennova Healthcare North Knoxville Medical Center,Powell,37849.0,TN,483,metro_core,483
+8544.0,220098,Nashoba Valley Medical Center,Ayer,1432.0,MA,193,metro_core,193
+6419.3529412,140166,St Marys Hospital,Decatur,62521.0,IL,190,metro_core,190
+5976.9433962,310008,Holy Name Medical Center,Teaneck,7666.0,NJ,194,metro_core,194
+55417.823529,280013,The Nebraska Medical Center,Omaha,68198.0,NE,266,metro_core,266
+9061.0571429,050045,El Centro Regional Medical Center,El Centro,92243.0,CA,689,metro_core,689
+7109.2258065,180040,Uofl Health - Jewish Hospital,Louisville,40202.0,KY,308,metro_core,308
+17752.32,340061,Unc Hospitals,Chapel Hill,27514.0,NC,064,metro_core,064
+4943.2727273,100044,Cleveland Clinic Martin North Hospital,Stuart,34994.0,FL,101,metro_core,101
+13649.084746,130006,St Luke's Regional Medical Center,Boise,83712.0,ID,481,metro_core,481
+8230.0,100122,North Okaloosa Medical Center,Crestview,32539.0,FL,682,metro_high_commute,682
+13159.421053,530012,Wyoming Medical Center,Casper,82601.0,WY,331,metro_core,331
+9112.9411765,190027,Christus Ochsner St Patrick Hospital,Lake Charles,70601.0,LA,291,metro_core,291
+8331.3636364,110107,Atrium Health Navicent The Medical Center,Macon,31201.0,GA,331,metro_core,331
+13982.4375,420065,Bon Secours-St Francis Xavier Hospital,Charleston,29414.0,SC,481,metro_core,481
+3083.0526316,100176,Palm Beach Gardens Medical Center,Palm Beach Gardens,33410.0,FL,149,metro_core,149
+13431.0,670047,The Hospitals Of Providence East Campus,El Paso,79938.0,TX,064,metro_core,064
+10926.5,310064,Atlanticare Regional Medical Center - City Campus,Atlantic City,8401.0,NJ,682,metro_core,682
+18088.235294,390050,Allegheny General Hospital,Pittsburgh,15212.0,PA,164,metro_core,164
+3751.4615385,390153,Paoli Hospital,Paoli,19301.0,PA,536,metro_core,536
+20352.807692,330214,Nyu Langone Hospitals,New York,10016.0,NY,841,metro_core,841
+15912.684211,390231,Abington Memorial Hospital,Abington,19001.0,PA,522,metro_core,522
+45380.818182,030062,Summit Healthcare Regional Medical Center,Show Low,85901.0,AZ,853,small_town_core,853
+7762.6875,150102,Northwest Health- Starke,Knox,46534.0,IN,190,small_town_core,190
+6333.9047619,310041,Community Medical Center,Toms River,8755.0,NJ,315,metro_core,315
+4829.5147059,340098,Atrium Health Pineville,Charlotte,28210.0,NC,194,metro_core,194
+6322.6666667,050573,Eisenhower Medical Center,Rancho Mirage,92270.0,CA,392,metro_core,392
+11041.5,260077,Mercy Hospital South,Saint Louis,63128.0,MO,199,metro_core,199
+9243.5,170040,University Of Kansas Hospital,Kansas City,66160.0,KS,884,metro_core,884
+35262.0,490098,Community Memorial Hospital,South Hill,23970.0,VA,853,small_town_core,853
+10023.0,110087,Northside Hospital Gwinnett,Lawrenceville,30046.0,GA,086,metro_core,086
+6587.2272727,330250,The University Of Vermont Health Network  - Champl,Plattsburgh,12901.0,NY,194,micro_core,194
+7656.9473684,090003,Howard University Hospital,Washington,20060.0,DC,392,metro_core,392
+12627.416667,220100,South Shore Hospital,South Weymouth,2190.0,MA,438,metro_core,438
+18912.857798,050239,Glendale Adventist Medical Center,Glendale,91206.0,CA,177,metro_core,177
+7959.7286822,250019,Memorial Hospital At Gulfport,Gulfport,39502.0,MS,291,metro_core,291
+16567.6,380047,St Charles Bend Campus,Bend,97701.0,OR,542,metro_core,542
+8780.4920635,340071,Betsy Johnson Regional  Hospital,Dunn,28334.0,NC,291,micro_core,291
+4740.8947368,190026,Rapides Regional Medical Center,Alexandria,71301.0,LA,683,metro_core,683
+82363.0,140124,John H Stroger Jr Hospital,Chicago,60612.0,IL,274,metro_core,274
+5293.8125,270049,St Vincent Healthcare,Billings,59101.0,MT,552,metro_core,552
+7035.4285714,220100,South Shore Hospital,South Weymouth,2190.0,MA,071,metro_core,071
+6013.4285714,180067,University Of Kentucky Hospital,Lexington,40536.0,KY,101,metro_core,101
+3316.2608696,250102,Mississippi Baptist Medical Center,Jackson,39202.0,MS,313,metro_core,313
+17688.0,190060,Lake Charles Memorial Hospital,Lake Charles,70601.0,LA,468,metro_core,468
+46669.461538,100151,Mayo Clinic,Jacksonville,32224.0,FL,023,metro_core,023
+6340.4615385,150021,Parkview Regional Medical Center,Fort Wayne,46845.0,IN,184,metro_core,184
+28110.611111,450647,Medical City Dallas,Dallas,75230.0,TX,650,metro_core,650
+9536.9365079,100034,"Mount Sinai Medical Center Of Florida, Inc",Miami Beach,33140.0,FL,193,metro_core,193
+13727.090909,330044,"Mvhs, Inc",Utica,13502.0,NY,481,metro_core,481
+6061.9166667,450358,Houston Methodist Hospital,Houston,77030.0,TX,897,metro_core,897
+4372.3076923,230089,"Beaumont Hospital, Grosse Pointe",Grosse Pointe,48230.0,MI,069,metro_core,069
+4771.3913043,490050,Virginia Hospital Center,Arlington,22205.0,VA,392,metro_core,392
+67268.823529,050025,Uc San Diego Health Hillcrest - Hillcrest Med Ctr,San Diego,92103.0,CA,956,metro_core,956
+14191.771429,190006,Ochsner University Hospital And Clinics,Lafayette,70506.0,LA,291,metro_core,291
+7004.9230769,230019,Ascension Providence Hospital,Southfield,48075.0,MI,644,metro_core,644
+6348.2045455,360145,University Hospitals - Elyria Medical Center,Elyria,44035.0,OH,190,secondary_flow_metro,190
+20659.461538,090003,Howard University Hospital,Washington,20060.0,DC,280,metro_core,280
+6038.7777778,140130,Northwestern Lake Forest Hospital,Lake Forest,60045.0,IL,683,metro_core,683
+4133.8,360155,Southwest General Health Center,Middleburg Heights,44130.0,OH,176,metro_core,176
+18102.6,280013,The Nebraska Medical Center,Omaha,68198.0,NE,857,metro_core,857
+16740.785714,140185,Memorial Hospital,Belleville,62226.0,IL,659,metro_core,659
+10593.354839,230222,Mymichigan Medical Center Midland,Midland,48670.0,MI,682,metro_core,682
+6043.2307692,010033,University Of Alabama Hospital,Birmingham,35233.0,AL,309,metro_core,309
+7484.8666667,500007,Island Hospital,Anacortes,98221.0,WA,065,micro_core,065
+19947.15,330226,Unity Hospital Of Rochester,Rochester,14626.0,NY,468,metro_core,468
+6350.025641,300003,Mary Hitchcock Memorial Hospital,Lebanon,3756.0,NH,309,micro_core,309
+10859.785714,390231,Abington Memorial Hospital,Abington,19001.0,PA,183,metro_core,183
+6163.0430108,100019,Holmes Regional Medical Center,Melbourne,32901.0,FL,378,metro_core,378
+7364.2142857,050254,Marshall Medical Center,Placerville,95667.0,CA,897,secondary_flow_metro,897
+10311.714286,360068,Toledo Hospital The,Toledo,43606.0,OH,862,metro_core,862
+13709.333333,450042,Ascension Providence Depaul,Waco,76712.0,TX,481,metro_core,481
+9388.3571429,330386,Garnet Health  Medical Center Catskills,Harris,12742.0,NY,689,small_town_high_commute,689
+5576.92,040029,"Conway Regional Medical Center, Inc",Conway,72034.0,AR,872,metro_core,872
+20204.517241,090004,Medstar Georgetown University Hospital,Washington,20007.0,DC,027,metro_core,027
+12461.612903,310015,Morristown Medical Center,Morristown,7960.0,NJ,811,metro_core,811
+13785.403846,330024,Mount Sinai Hospital,New York,10029.0,NY,308,metro_core,308
+8320.7894737,150056,Indiana University Health,Indianapolis,46202.0,IN,200,metro_core,200
+8864.9473684,450743,Texas Health Presbyterian Hospital Denton,Denton,76201.0,TX,391,secondary_flow_metro,391
+23626.363636,450102,Christus Mother Frances Hospital,Tyler,75701.0,TX,460,metro_core,460
+6729.6923077,440018,Sycamore Shoals Hospital,Elizabethton,37643.0,TN,291,metro_core,291
+16639.12,290045,Saint Rose Dominican Hospitals - Siena Campus,Henderson,89052.0,NV,330,metro_core,330
+13649.642857,390046,Wellspan York Hospital,York,17403.0,PA,493,metro_core,493
+15997.8,500024,Providence St Peter Hospital,Olympia,98506.0,WA,314,metro_core,314
+35915.652174,100018,Naples Community Hospital,Naples,34102.0,FL,023,metro_core,023
+8869.3783784,330185,John T Mather Memorial Hospital  Of Port Jefferson,Port Jefferson,11777.0,NY,178,metro_core,178
+7818.6666667,310073,Jersey Shore University Medical Center,Neptune,7753.0,NJ,372,metro_core,372
+14105.15,340021,Atrium Health Cleveland,Shelby,28150.0,NC,522,micro_core,522
+8667.59375,160112,Spencer Municipal Hospital,Spencer,51301.0,IA,193,micro_core,193
+16692.888889,520196,Oakleaf Surgical Hospital,Altoona,54720.0,WI,468,metro_core,468
+5777.75,490022,"Mary Washington Hospital, Inc",Fredericksburg,22401.0,VA,065,secondary_flow_metro,065
+5223.0833333,450044,Ut Southwestern University Hospital,Dallas,75390.0,TX,948,metro_core,948
+19958.75,440035,Tennova Healthcare-Clarksville,Clarksville,37040.0,TN,252,metro_core,252
+187283.72727,050454,Ucsf Medical Center,San Francisco,94143.0,CA,216,metro_core,216
+7056.2,150023,Union Hospital Inc,Terre Haute,47804.0,IN,178,metro_core,178
+10635.35,220163,Umass Memorial Medical Center Inc,Worcester,1655.0,MA,920,metro_core,920
+11606.0,180017,T J Samson Community Hospital,Glasgow,42141.0,KY,247,micro_core,247
+4865.5789474,110042,Wellstar Paulding Medical Center,Hiram,30141.0,GA,699,metro_core,699
+7496.3846154,440061,West Tennessee Healthcare Volunteer Hospital,Martin,38237.0,TN,189,micro_core,189
+7736.4509804,010149,Baptist Medical Center East,Montgomery,36117.0,AL,193,metro_core,193
+27348.5,290001,Renown Regional Medical Center,Reno,89502.0,NV,271,metro_core,271
+9553.1538462,420007,Spartanburg Medical Center,Spartanburg,29303.0,SC,391,metro_core,391
+16487.833333,420105,Mcleod Loris  Hospital,Loris,29569.0,SC,468,secondary_flow_metro,468
+15012.48,050100,Sharp Memorial Hospital,San Diego,92123.0,CA,247,metro_core,247
+6774.4594595,090004,Medstar Georgetown University Hospital,Washington,20007.0,DC,101,metro_core,101
+11391.6,110215,Piedmont Fayette Hospital,Fayetteville,30214.0,GA,393,metro_core,393
+48382.153846,380009,Ohsu Hospital And Clinics,Portland,97239.0,OR,163,metro_core,163
+5484.1153846,230130,Corewell Health William Beaumont University Hospit,Royal Oak,48073.0,MI,554,metro_core,554
+17242.691892,050309,Sutter Roseville Medical Center,Roseville,95661.0,CA,177,metro_core,177
+11340.69697,050761,Providence Cedars Sinai Tarzana Medical Center,Tarzana,91356.0,CA,193,metro_core,193
+52717.68,240036,St Cloud Hospital,Saint Cloud,56303.0,MN,454,metro_core,454
+11495.362069,210028,Medstar Saint Mary's Hospital,Leonardtown,20650.0,MD,885,metro_high_commute,885
+15304.758621,360079,Kettering Health Main Campus,Kettering,45429.0,OH,330,metro_core,330
+5317.4705882,450346,Baptist Beaumont Hospital,Beaumont,77701.0,TX,603,metro_core,603
+4020.2857143,130074,"Idaho Falls Community Hospital, Llc",Idaho Falls,83404.0,ID,194,metro_core,194
+41726.611111,190026,Rapides Regional Medical Center,Alexandria,71301.0,LA,207,metro_core,207
+8191.5384615,450788,"Corpus Christi Medical Center,the",Corpus Christi,78414.0,TX,287,metro_core,287
+5488.6363636,450271,Medical City Decatur,Decatur,76234.0,TX,872,small_town_core,872
+114096.5,450051,Methodist Dallas Medical Center,Dallas,75203.0,TX,003,metro_core,003
+4192.9166667,190015,"North Oaks Medical Center, L L C",Hammond,70403.0,LA,392,micro_core,392
+31048.823529,050125,Regional Medical Center Of San Jose,San Jose,95116.0,CA,208,metro_core,208
+6377.7701149,100007,Adventhealth Orlando,Orlando,32803.0,FL,661,metro_core,661
+4912.3571429,310017,Chilton Medical Center,Pompton Plains,7444.0,NJ,536,metro_core,536
+7828.2592593,360155,Southwest General Health Center,Middleburg Heights,44130.0,OH,280,metro_core,280
+7674.5625,070033,Danbury Hospital,Danbury,6810.0,CT,644,metro_core,644
+34665.0,180038,Owensboro Health Regional Hospital,Owensboro,42303.0,KY,269,metro_core,269
+10731.372093,100040,Ascension St Vincent's Riverside,Jacksonville,32204.0,FL,377,metro_core,377
+11557.75,310017,Chilton Medical Center,Pompton Plains,7444.0,NJ,813,metro_core,813
+11477.738095,340014,Novant Health Forsyth Medical Center,Winston-Salem,27103.0,NC,280,metro_core,280
+12323.941176,100044,Cleveland Clinic Martin North Hospital,Stuart,34994.0,FL,056,metro_core,056
+13608.482759,390049,St Luke's Hospital Bethlehem,Bethlehem,18015.0,PA,244,metro_core,244
+9469.4782609,140091,The Carle Foundation Hospital,Urbana,61801.0,IL,602,metro_core,602
+6569.3157895,220100,South Shore Hospital,South Weymouth,2190.0,MA,880,metro_core,880
+6591.5714286,220035,North Shore Medical Center -,Salem,1970.0,MA,554,metro_core,554
+7391.2631579,500036,Yakima Valley Memorial,Yakima,98902.0,WA,190,metro_core,190
+11676.842105,090011,Medstar Washington Hospital Center,Washington,20010.0,DC,193,metro_core,193
+23303.705882,360079,Kettering Health Main Campus,Kettering,45429.0,OH,242,metro_core,242
+7148.56,210015,Medstar Franklin Square Medical Center,Rosedale,21237.0,MD,309,metro_core,309
+6153.25,010019,Helen Keller Memorial Hospital,Sheffield,35660.0,AL,640,metro_core,640
+11387.458333,100157,Lakeland Regional Medical Center,Lakeland,33805.0,FL,247,metro_core,247
+8373.1666667,070022,Yale-New Haven Hospital,New Haven,6504.0,CT,439,metro_core,439
+12437.0,270003,St Peters Health,Helena,59601.0,MT,247,micro_core,247
+61751.461538,390164,Upmc Presbyterian Shadyside,Pittsburgh,15213.0,PA,268,metro_core,268
+12003.5,310069,Inspira Medical Center Mullica Hill,Mullica Hill,8062.0,NJ,813,metro_core,813
+12877.0,310047,Shore Medical Center,Somers Point,8244.0,NJ,064,metro_core,064
+9126.4545455,340113,Carolinas Medical Center/Behav Health,Charlotte,28203.0,NC,149,metro_core,149
+14381.363636,220119,Brigham And Women's Faulkner Hospital,Boston,2130.0,MA,657,metro_core,657
+5580.4878049,390041,Uniontown Hospital,Uniontown,15401.0,PA,872,metro_core,872
+30168.714286,420098,Tidelands Waccamaw Community Hospital,Murrells Inlet,29576.0,SC,329,metro_core,329
+14682.054054,100019,Holmes Regional Medical Center,Melbourne,32901.0,FL,243,metro_core,243
+5109.4210526,450890,Baylor Regional Medical Center At Plano,Plano,75093.0,TX,394,metro_core,394
+9665.5833333,370025,Saint Francis Hospital Muskogee,Muskogee,74401.0,OK,070,micro_core,070
+10266.478261,030024,St. Joseph's Hospital And Medical Center,Phoenix,85013.0,AZ,391,metro_core,391
+5859.8571429,260119,Poplar Bluff Regional Medical Center,Poplar Bluff,63901.0,MO,378,micro_high_commute,378
+6844.8,050761,Providence Cedars Sinai Tarzana Medical Center,Tarzana,91356.0,CA,699,metro_core,699
+11025.263158,420023,St Francis-Downtown,Greenville,29601.0,SC,244,metro_core,244
+15871.333333,230273,Detroit Receiving Hospital & Univ Health Center,Detroit,48201.0,MI,377,metro_core,377
+14731.821429,140281,Northwestern Memorial Hospital,Chicago,60611.0,IL,180,metro_core,180
+18211.521739,050107,Marian Regional Medical Center,Santa Maria,93454.0,CA,314,metro_core,314
+6290.9090909,670088,Baylor Scott & White Medical Center- College Stati,College Station,77845.0,TX,699,metro_core,699
+23051.0,220135,Falmouth Hospital,Falmouth,2540.0,MA,467,metro_core,467
+5649.3658537,310111,Centrastate Medical Center,Freehold,7728.0,NJ,281,metro_core,281
+5573.2173913,230077,Ascension St Mary's Hospital,Saginaw,48601.0,MI,552,metro_core,552
+35718.636364,280065,Great Plains Health,North Platte,69101.0,NE,853,micro_core,853
+7675.3333333,330055,New York-Presbyterian/Queens,Flushing,11355.0,NY,948,metro_core,948
+13066.263158,150047,Lutheran Downtown Hospital,Fort Wayne,46802.0,IN,291,metro_core,291
+8540.6666667,050070,Kaiser Foundation Hospital - South San Francisco,South San Francisco,94080.0,CA,872,metro_core,872
+6541.48,280013,The Nebraska Medical Center,Omaha,68198.0,NE,690,metro_core,690
+33294.580645,230041,Mclaren Bay Region,Bay City,48708.0,MI,267,metro_core,267
+24941.285714,360137,Uh Cleveland Medical Center,Cleveland,44106.0,OH,654,metro_core,654
+12105.153846,330198,Mount Sinai South Nassau,Oceanside,11572.0,NY,306,metro_core,306
+9978.9,490140,"Stafford Hospital, Llc",Stafford,22554.0,VA,280,metro_core,280
+4726.4,010001,Southeast Health Medical Center,Dothan,36301.0,AL,948,metro_high_commute,948
+16828.589744,130007,Saint Alphonsus Regional Medical Center,Boise,83706.0,ID,330,metro_core,330
+8222.030303,070034,Norwalk Hospital,Norwalk,6856.0,CT,065,metro_core,065
+5815.9285714,340116,Frye Regional Medical Center,Hickory,28601.0,NC,071,metro_core,071
+7039.9777778,210005,Frederick Health Hospital,Frederick,21701.0,MD,176,secondary_flow_metro,176
+5033.7096774,340114,Rex Hospital,Raleigh,27607.0,NC,638,metro_core,638
+13768.032258,440039,Vanderbilt University Medical Center,Nashville,37232.0,TN,165,metro_core,165
+11791.909091,110050,Adventhealth Murray,Chatsworth,30705.0,GA,177,metro_high_commute,177
+13680.842105,490009,Uva Health Sciences Center,Charlottesville,22908.0,VA,660,metro_core,660
+8398.4166667,280003,Bryan Medical Center,Lincoln,68506.0,NE,660,metro_core,660
+28705.96875,250048,St Dominic-Jackson Memorial Hospital,Jackson,39216.0,MS,025,metro_core,025
+36233.235294,670077,Houston Methodist West Hospital,Houston,77094.0,TX,163,metro_core,163
+7977.8461538,450672,Medical City Fort Worth,Fort Worth,76104.0,TX,689,metro_core,689
+18060.525,330013,Albany Medical Center Hospital,Albany,12208.0,NY,164,metro_core,164
+12752.0,370114,Ascension St John Medical Center,Tulsa,74104.0,OK,441,metro_core,441
+31818.307692,260001,Mercy Hospital Joplin,Joplin,64804.0,MO,267,metro_core,267
+9963.7291667,110015,Tanner Medical Center Villa Rica,Villa Rica,30180.0,GA,193,metro_core,193
+6039.0757576,230017,Bronson Methodist Hospital,Kalamazoo,49007.0,MI,065,metro_core,065
+5132.4117647,290019,Carson Tahoe Regional Medical Center,Carson City,89703.0,NV,309,metro_core,309
+4424.4375,030006,Tucson Medical Center,Tucson,85712.0,AZ,948,metro_core,948
+20365.384615,200024,Central Maine Medical Center,Lewiston,4240.0,ME,480,metro_core,480
+24759.307692,150074,Community Hospital East,Indianapolis,46219.0,IN,252,metro_core,252
+11295.962963,100267,Hca Florida Englewood Hospital,Englewood,34223.0,FL,481,metro_core,481
+14211.555556,420023,St Francis-Downtown,Greenville,29601.0,SC,493,metro_core,493
+10600.8,330276,Nathan Littauer Hospital,Gloversville,12078.0,NY,682,micro_core,682
+13478.474138,230277,Huron Valley-Sinai Hospital,Commerce Township,48382.0,MI,871,metro_core,871
+11885.307692,290001,Renown Regional Medical Center,Reno,89502.0,NV,862,metro_core,862
+7015.375,050242,Dominican Hospital,Santa Cruz,95065.0,CA,309,metro_core,309
+24398.307692,010139,Brookwood Baptist Medical Center,Vestavia,35216.0,AL,267,metro_core,267
+26240.5,230019,Ascension Providence Hospital,Southfield,48075.0,MI,271,metro_core,271
+11059.4375,310076,Cooperman Barnabas Medical Center,Livingston,7039.0,NJ,180,metro_core,180
+6818.8461538,230197,Ascension Genesys Hospital,Grand Blanc,48439.0,MI,039,metro_core,039
+42776.153846,380102,Sacred Heart Medical Center - Riverbend,Springfield,97477.0,OR,023,metro_core,023
+5161.4,450058,Baptist Medical Center,San Antonio,78205.0,TX,392,metro_core,392
+45700.778481,520098,University Of Wi  Hospitals & Clinics Authority,Madison,53792.0,WI,267,metro_core,267
+5816.7407407,280003,Bryan Medical Center,Lincoln,68506.0,NE,065,metro_core,065
+10784.625,500151,St Anthony Hospital,Gig Harbor,98332.0,WA,884,metro_core,884
+31776.388889,050308,El Camino Hospital,Mountain View,94040.0,CA,208,metro_core,208
+14524.25,140281,Northwestern Memorial Hospital,Chicago,60611.0,IL,438,metro_core,438
+6044.0625,390179,Chester County Hospital,West Chester,19380.0,PA,092,metro_core,092
+26467.833333,230070,Covenant Medical Center,Saginaw,48602.0,MI,813,metro_core,813
+10023.833333,110132,Memorial Hospital And Manor,Bainbridge,39819.0,GA,193,micro_core,193
+3293.05,230130,Corewell Health William Beaumont University Hospit,Royal Oak,48073.0,MI,310,metro_core,310
+7599.6086957,050324,Scripps Memorial Hospital La Jolla,La Jolla,92037.0,CA,184,metro_core,184
+16482.941176,050145,Community Hospital Of The Monterey Peninsula,Monterey,93940.0,CA,813,metro_core,813
+29785.157895,230029,Trinity Health Oakland Hospital,Pontiac,48341.0,MI,981,metro_core,981
+11370.153846,520066,Mercy Health System Corp,Janesville,53548.0,WI,377,metro_core,377
+8146.1724138,450002,The Hospitals Of Providence Memorial Campus,El Paso,79902.0,TX,291,metro_core,291
+26086.25,450462,Texas Health Presbyterian Hospital  Dallas,Dallas,75231.0,TX,271,metro_core,271
+10737.615385,100173,Adventhealth Tampa,Tampa,33613.0,FL,091,metro_core,091
+9500.5909091,380004,Providence St Vincent Medical Center,Portland,97225.0,OR,193,metro_core,193
+5025.32,300001,Concord Hospital,Concord,3301.0,NH,309,micro_core,309
+8697.0454545,110069,Houston Healthcare,Warner Robins,31093.0,GA,640,metro_core,640
+14753.272727,060024,University Of Colorado Hospital Authority,Aurora,80045.0,CO,070,metro_core,070
+9683.6666667,490052,Riverside Regional Medical Center,Newport News,23601.0,VA,331,metro_core,331
+7098.8823529,010036,Andalusia Health,Andalusia,36420.0,AL,190,small_town_core,190
+7348.6,320002,Christus St Vincent Regional Medical Center,Santa Fe,87505.0,NM,563,metro_core,563
+4077.3684211,450058,Baptist Medical Center,San Antonio,78205.0,TX,066,metro_core,066
+15643.307692,450634,Medical City Denton,Denton,76210.0,TX,085,metro_high_commute,085
+6911.0833333,260047,Capital Region Medical Center,Jefferson City,65102.0,MO,190,metro_core,190
+7964.8181818,340039,Iredell Memorial Hospital Inc,Statesville,28677.0,NC,391,metro_core,391
+6172.9090909,500124,Evergreenhealth Medical Center,Kirkland,98034.0,WA,092,metro_core,092
+5279.5,170040,University Of Kansas Hospital,Kansas City,66160.0,KS,194,metro_core,194
+3440.8333333,190045,St Tammany Parish Hospital,Covington,70433.0,LA,309,secondary_flow_metro,309
+16011.818182,070022,Yale-New Haven Hospital,New Haven,6504.0,CT,331,metro_core,331
+4584.4782609,340010,Unc Health Wayne,Goldsboro,27534.0,NC,313,metro_core,313
+6655.2857143,130003,St Joseph Regional Medical Center,Lewiston,83501.0,ID,281,metro_core,281
+9880.4295082,330214,Nyu Langone Hospitals,New York,10016.0,NY,603,metro_core,603
+9467.1153846,450068,Memorial Hermann Texas Medical Center,Houston,77030.0,TX,287,metro_core,287
+8582.5416667,140116,Northwestern Medicine Mchenry Hospital,Mchenry,60050.0,IL,391,metro_high_commute,391
+52483.278481,450015,Parkland Health And Hospital System,Dallas,75235.0,TX,871,metro_core,871
+9678.2542373,060034,Swedish Medical Center,Englewood,80113.0,CO,682,metro_core,682
+6587.5454545,500031,Grays Harbor Community Hospital,Aberdeen,98520.0,WA,281,micro_core,281
+9938.5416667,230195,Ascension Macomb Oakland Hosp-Warren Campus,Warren,48093.0,MI,917,metro_core,917
+4951.6538462,390058,Upmc Carlisle,Carlisle,17015.0,PA,065,metro_core,065
+4228.3846154,370056,Comanche County Memorial Hospital,Lawton,73505.0,OK,313,metro_core,313
+43489.464286,450713,St David's South Austin Medical Center,Austin,78704.0,TX,266,metro_core,266
+7573.7142857,490044,Sentara Obici Hospital,Suffolk,23439.0,VA,391,metro_core,391
+6776.1666667,110074,Piedmont Athens Regional Medical Center,Athens,30606.0,GA,202,metro_core,202
+14580.764706,330226,Unity Hospital Of Rochester,Rochester,14626.0,NY,698,metro_core,698
+2483.6521739,360230,Hillcrest Hospital,Mayfield Heights,44124.0,OH,390,metro_core,390
+17694.807692,210004,Holy Cross Hospital,Silver Spring,20910.0,MD,189,metro_core,189
+8588.4166667,050603,Memorialcare Saddleback Medical Center,Laguna Hills,92653.0,CA,640,secondary_flow_metro,640
+6784.2,310108,Jfk University Medical Center,Edison,8820.0,NJ,812,metro_core,812
+8433.5652174,100126,Hca Florida Pasadena Hospital,Saint Petersburg,33707.0,FL,682,metro_core,682
+13082.705882,140130,Northwestern Lake Forest Hospital,Lake Forest,60045.0,IL,542,metro_core,542
+8940.6666667,110041,Northeast Georgia Medical Center Habersham,Demorest,30535.0,GA,193,micro_core,193
+11625.133333,070027,Manchester Memorial Hospital,Manchester,6040.0,CT,280,metro_core,280
+25249.972973,170040,University Of Kansas Hospital,Kansas City,66160.0,KS,246,metro_core,246
+24863.37037,010033,University Of Alabama Hospital,Birmingham,35233.0,AL,480,metro_core,480
+11641.818182,340041,Caldwell Memorial Hospital,Lenoir,28645.0,NC,177,metro_core,177
+20833.727273,140174,Presence Mercy Medical Center,Aurora,60506.0,IL,480,metro_core,480
+11420.714286,220001,Health Alliance - Clinton Hospital,Leominster,1453.0,MA,811,metro_core,811
+11499.692308,450647,Medical City Dallas,Dallas,75230.0,TX,896,metro_core,896
+19627.615385,100289,Cleveland Clinic Hospital,Weston,33331.0,FL,652,metro_core,652
+3214.2916667,220070,Melrosewakefield Healthcare,Melrose,2176.0,MA,310,metro_core,310
+12609.807018,190274,Ochsner Medical Center-Kenner,Kenner,70065.0,LA,871,metro_core,871
+6786.0833333,440061,West Tennessee Healthcare Volunteer Hospital,Martin,38237.0,TN,689,micro_core,689
+48622.860465,220012,Cape Cod Hospital,Hyannis,2601.0,MA,853,metro_core,853
+8131.7209302,100258,Delray Medical Center,Delray Beach,33484.0,FL,551,metro_core,551
+11483.076923,450163,Christus Spohn Hospital Kleberg,Kingsville,78363.0,TX,193,micro_core,193
+29465.413793,050262,Ronald Reagan Ucla Medical Center,Los Angeles,90095.0,CA,141,metro_core,141
+34129.529412,140191,Ingalls Memorial Hospital,Harvey,60426.0,IL,853,metro_core,853
+20988.631579,050195,Washington Hospital,Fremont,94538.0,CA,247,metro_core,247
+13043.15625,100071,Tampa General Hospital Brooksville,Brooksville,34601.0,FL,481,secondary_flow_metro,481
+13593.846154,050298,Barstow Community Hospital,Barstow,92311.0,CA,193,micro_core,193
+62362.394737,220171,"Lahey Hospital & Medical Center, Burlington",Burlington,1803.0,MA,266,metro_core,266
+7859.3333333,200009,Maine Medical Center,Portland,4102.0,ME,372,metro_core,372
+3849.75,390179,Chester County Hospital,West Chester,19380.0,PA,066,metro_core,066
+12200.0,140252,Northwest Community Hospital 1,Arlington Heights,60005.0,IL,100,metro_core,100
+7932.4534161,390270,Geisinger Wyoming Valley Medical Center,Wilkes Barre,18711.0,PA,189,metro_core,189
+12174.35,330126,Garnet Health Medical Center,Middletown,10940.0,NY,304,metro_core,304
+8020.5833333,240038,United Hospital,Saint Paul,55102.0,MN,308,metro_core,308
+4018.3050847,390153,Paoli Hospital,Paoli,19301.0,PA,641,metro_core,641
+20920.846154,100008,Baptist Hospital Of Miami,Miami,33176.0,FL,674,metro_core,674
+4823.8439716,360112,Mercy Health St Vincent Medical Center,Toledo,43608.0,OH,309,metro_core,309
+7424.1875,340097,Hugh Chatham Memorial Hospital,Elkin,28621.0,NC,308,small_town_core,308
+10261.666667,260068,Boone Hospital Center,Columbia,65201.0,MO,036,metro_core,036
+17346.0,330250,The University Of Vermont Health Network  - Champl,Plattsburgh,12901.0,NY,322,micro_core,322
+12920.015625,390133,Lehigh Valley Hospital,Allentown,18103.0,PA,542,metro_core,542
+4083.6428571,360020,Summa Health System,Akron,44309.0,OH,066,metro_core,066
+41903.653846,520098,University Of Wi  Hospitals & Clinics Authority,Madison,53792.0,WI,234,metro_core,234
+4881.9375,230041,Mclaren Bay Region,Bay City,48708.0,MI,812,metro_core,812
+22849.5,310069,Inspira Medical Center Mullica Hill,Mullica Hill,8062.0,NJ,480,metro_core,480
+8200.3333333,140217,Presence Saint Joseph Hospital - Elgin,Elgin,60123.0,IL,308,metro_core,308
+9228.2429907,510001,"West Virginia University Hospitals, Inc",Morgantown,26506.0,WV,291,metro_core,291
+12792.9375,340050,Southeastern Regional Medical Center,Lumberton,28359.0,NC,280,micro_core,280
+9972.96,110107,Atrium Health Navicent The Medical Center,Macon,31201.0,GA,391,metro_core,391
+7763.5294118,050309,Sutter Roseville Medical Center,Roseville,95661.0,CA,087,metro_core,087
+4183.3076923,520139,Aurora West Allis Medical Center,West Allis,53227.0,WI,065,metro_core,065
+23638.0,310074,Jersey City Medical Center,Jersey City,7302.0,NJ,286,metro_core,286
+9735.5,340017,Margaret R Pardee Memorial Hospital,Hendersonville,28791.0,NC,331,metro_core,331
+4937.1071429,280040,Methodist Hospital,Omaha,68114.0,NE,948,metro_core,948
+26479.294118,150035,Northwest  Health- Porter,Valparaiso,46383.0,IN,236,metro_core,236
+8159.0,050108,"Sutter Medical Center, Sacramento",Sacramento,95816.0,CA,292,metro_core,292
+38156.842105,360359,University Hospitals Ahuja Medical Center,Beachwood,44122.0,OH,454,metro_core,454
+8576.9552239,240115,Mercy Hospital,Coon Rapids,55433.0,MN,193,metro_core,193
+8608.9803922,330059,Montefiore Medical Center,Bronx,10467.0,NY,948,metro_core,948
+16586.391304,440011,Blount Memorial Hospital,Maryville,37804.0,TN,480,metro_core,480
+9620.65,500014,Providence Regional Medical Center Everett,Everett,98201.0,WA,175,metro_core,175
+13120.416667,050115,Palomar Health Downtown Campus,Escondido,92025.0,CA,551,metro_core,551
+8082.7777778,100307,Ascension St Vincent's Southside,Jacksonville,32216.0,FL,291,metro_core,291
+5520.4705882,140048,Advocate Trinity Hospital,Chicago,60617.0,IL,638,metro_core,638
+46875.069767,360085,Ohio State University Hospitals,Columbus,43210.0,OH,023,metro_core,023
+8983.84,370001,Hillcrest Medical Center,Tulsa,74104.0,OK,682,metro_core,682
+10208.62069,050006,Providence St Joseph Hospital,Eureka,95501.0,CA,689,micro_core,689
+9945.9230769,160033,Genesis Medical Center-Davenport,Davenport,52803.0,IA,280,metro_core,280
+169649.0,450056,Ascension Seton Medical Center Austin,Austin,78705.0,TX,453,metro_core,453
+9669.6444444,450044,Ut Southwestern University Hospital,Dallas,75390.0,TX,811,metro_core,811
+5842.0588235,170176,Overland Park Reg Med Ctr,Overland Park,66215.0,KS,812,metro_core,812
+13756.666667,050588,San Dimas Community Hospital,San Dimas,91773.0,CA,177,metro_core,177
+5292.3157895,440063,Johnson City Medical Center,Johnson City,37604.0,TN,948,metro_core,948
+26440.882353,360276,Mh St Elizabeth Boardman Hospital,Boardman,44512.0,OH,329,metro_core,329
+16484.4,100232,Hca Florida Putnam Hospital,Palatka,32177.0,FL,208,micro_core,208
+11829.727273,250001,University Of Mississippi Med Center,Jackson,39216.0,MS,839,metro_core,Other
+10976.6875,210057,Adventist Healthcare Shady Grove Medical Center,Rockville,20850.0,MD,292,metro_core,292
+7710.3157895,390179,Chester County Hospital,West Chester,19380.0,PA,660,metro_core,660
+9153.244898,160067,Mercyone Waterloo Medical Center,Waterloo,50702.0,IA,885,metro_core,885
+4134.6666667,230269,"Beaumont Hospital, Troy",Troy,48085.0,MI,948,metro_core,948
+7549.4666667,220135,Falmouth Hospital,Falmouth,2540.0,MA,543,metro_core,543
+42114.066667,050168,Providence St. Jude Medical Center,Fullerton,92835.0,CA,228,metro_core,228
+76838.655172,380018,Asante Rogue Regional Medical Center,Medford,97504.0,OR,219,metro_core,219
+10585.7,490107,Reston Hospital Center,Reston,20190.0,VA,377,metro_core,377
+18696.764706,330136,Mary Imogene Bassett Hospital,Cooperstown,13326.0,NY,247,rural,247
+9604.2,330285,Strong Memorial Hospital,Rochester,14642.0,NY,287,metro_core,287
+33883.583333,030105,Banner Heart Hospital,Mesa,85206.0,AZ,267,metro_core,267
+45311.363636,180038,Owensboro Health Regional Hospital,Owensboro,42303.0,KY,267,metro_core,267
+6954.1538462,010131,Crestwood Medical Center,Huntsville,35801.0,AL,175,metro_core,175
+6719.6842105,450237,Christus Santa Rosa Medical Center,San Antonio,78229.0,TX,300,metro_core,300
+41572.0,310012,Valley Hospital,Ridgewood,7450.0,NJ,228,metro_core,228
+8388.2608696,340061,Unc Hospitals,Chapel Hill,27514.0,NC,603,metro_core,603
+15017.954545,050305,Alta Bates Summit Medical Center - Alta Bates Camp,Berkeley,94705.0,CA,682,metro_core,682
+16507.567164,500039,St Michael Medical Center,Bremerton,98310.0,WA,286,metro_core,286
+16618.009569,220119,Brigham And Women's Faulkner Hospital,Boston,2130.0,MA,871,metro_core,871
+7413.3529412,110015,Tanner Medical Center Villa Rica,Villa Rica,30180.0,GA,065,metro_core,065
+8672.6,140242,Northwestern Medicine Central Dupage Hospital,Winfield,60190.0,IL,086,metro_core,086
+5861.5714286,450203,Medical City Weatherford,Weatherford,76086.0,TX,312,secondary_flow_metro,312
+5985.1176471,490033,Warren Memorial Hospital,Front Royal,22630.0,VA,309,micro_core,309
+5451.7826087,180104,Baptist Health Paducah,Paducah,42003.0,KY,178,micro_core,178
+5894.1714286,180035,St Elizabeth Medical Center North,Edgewood,41017.0,KY,872,metro_core,872
+24877.181818,340141,Novant Health New Hanover Regional Medical Center,Wilmington,28402.0,NC,469,metro_core,469
+7016.0833333,310010,Penn Medicine Princeton Medical Center,Plainsboro,8536.0,NJ,920,metro_core,920
+4386.5454545,190002,Ochsner Lafayette General Medical Center,Lafayette,70503.0,LA,603,metro_core,603
+26001.2,360095,Blanchard Valley Hospital,Findlay,45840.0,OH,329,micro_core,329
+8353.7916667,050557,Memorial Medical Center,Modesto,95355.0,CA,065,metro_core,065
+8678.2666667,260068,Boone Hospital Center,Columbia,65201.0,MO,254,metro_core,254
+7499.8823529,330235,Auburn  Community  Hospital,Auburn,13021.0,NY,190,micro_core,190
+13265.333333,050091,Community Hospital Of Huntington Park,Huntington Park,90255.0,CA,280,metro_core,280
+8168.1875,100006,Orlando Health Orlando Regional Medical Center,Orlando,32806.0,FL,200,metro_core,200
+5700.0,510001,"West Virginia University Hospitals, Inc",Morgantown,26506.0,WV,191,metro_core,191
+11425.212121,010078,Northeast Alabama Regional Medical Center,Anniston,36207.0,AL,177,metro_core,177
+17051.142857,310041,Community Medical Center,Toms River,8755.0,NJ,327,metro_core,327
+22915.758621,140053,St Johns Hospital,Springfield,62769.0,IL,242,metro_core,242
+9045.4545455,470003,University Of Vermont Medical Center,Burlington,5401.0,VT,657,metro_core,657
+22373.318182,030064,Banner - University Medical Center Tucson Campus,Tucson,85719.0,AZ,330,metro_core,330
+19631.727273,050327,Loma Linda University Medical Center,Loma Linda,92354.0,CA,377,metro_core,377
+5188.6190476,490044,Sentara Obici Hospital,Suffolk,23439.0,VA,552,metro_core,552
+23464.65,440091,"Memorial Healthcare System, Inc",Chattanooga,37404.0,TN,269,metro_core,269
+14623.92,360068,Toledo Hospital The,Toledo,43606.0,OH,522,metro_core,522
+4310.0555556,040134,"Arkansas Heart Hospital, Llc",Little Rock,72211.0,AR,281,metro_core,281
+12695.319149,080001,Christianacare,Newark,19718.0,DE,643,metro_core,643
+14729.268293,110107,Atrium Health Navicent The Medical Center,Macon,31201.0,GA,286,metro_core,286
+21331.619178,050625,Cedars-Sinai Medical Center,Los Angeles,90048.0,CA,177,metro_core,177
+43321.636364,180012,Baptist Health Hardin,Elizabethtown,42701.0,KY,246,metro_core,246
+5546.4545455,340041,Caldwell Memorial Hospital,Lenoir,28645.0,NC,683,metro_core,683
+22565.533333,100001,Uf Health Jacksonville,Jacksonville,32209.0,FL,253,metro_core,253
+18197.0625,390153,Paoli Hospital,Paoli,19301.0,PA,521,metro_core,521
+14852.555556,210001,Meritus Medical Center,Hagerstown,21742.0,MD,247,metro_core,247
+6702.6315789,290001,Renown Regional Medical Center,Reno,89502.0,NV,812,metro_core,812
+5489.0833333,470003,University Of Vermont Medical Center,Burlington,5401.0,VT,092,metro_core,092
+4668.3428571,060022,University Colo Health Memorial Hospital Central,Colorado Springs,80909.0,CO,309,metro_core,309
+3695.3684211,110083,Piedmont Hospital,Atlanta,30309.0,GA,948,metro_core,948
+5825.45,020017,Alaska Regional Hospital,Anchorage,99508.0,AK,312,metro_core,312
+8652.9230769,520013,Sacred Heart Hospital,Eau Claire,54701.0,WI,308,metro_core,308
+23230.384615,100077,Shorepoint Health Port Charlotte,Port Charlotte,33952.0,FL,271,metro_core,271
+6142.2375,140233,Saint Anthony Medical Center,Rockford,61108.0,IL,378,metro_core,378
+5819.5,040062,Mercy Hospital Fort Smith,Fort Smith,72903.0,AR,872,metro_core,872
+31360.761905,150044,Baptist Health Floyd,New Albany,47150.0,IN,220,metro_core,220
+16819.0,030122,Banner Gateway Medical Center,Gilbert,85234.0,AZ,330,metro_core,330
+5330.0625,140148,Memorial Medical Center,Springfield,62702.0,IL,439,metro_core,439
+6062.7580645,520070,Mayo Clinic Health System In Eau Claire,Eau Claire,54703.0,WI,872,metro_core,872
+14336.466667,210051,"Luminis Health Doctors Community Medical Ctr, Inc",Lanham,20706.0,MD,291,metro_core,291
+4278.8461538,470003,University Of Vermont Medical Center,Burlington,5401.0,VT,644,metro_core,644
+4044.25,280139,Grand Island Regional Medical Center,Grand Island,68803.0,NE,690,metro_core,690
+14248.588235,220119,Brigham And Women's Faulkner Hospital,Boston,2130.0,MA,896,metro_core,896
+19642.642857,100151,Mayo Clinic,Jacksonville,32224.0,FL,468,metro_core,468
+11968.37037,490120,Chesapeake General Hospital,Chesapeake,23320.0,VA,100,metro_core,100
+19166.538462,210029,Johns Hopkins Bayview Medical Center,Baltimore,21224.0,MD,948,metro_core,948
+9338.0634921,510002,"Camc Greenbrier Valley Medical Center, Inc",Ronceverte,24970.0,WV,291,small_town_high_commute,291
+8967.3333333,280003,Bryan Medical Center,Lincoln,68506.0,NE,602,metro_core,602
+38683.647059,190064,Our Lady Of The Lake Regional Medical Center,Baton Rouge,70808.0,LA,870,metro_core,870
+24419.9,330196,South Brooklyn Health,Brooklyn,11235.0,NY,377,metro_core,377
+7751.1666667,240213,M Health Fairview Woodwinds Hospital,Woodbury,55125.0,MN,189,metro_core,189
+4432.6818182,470012,Southwestern Vermont Medical Center,Bennington,5201.0,VT,378,micro_core,378
+12270.44,160067,Mercyone Waterloo Medical Center,Waterloo,50702.0,IA,177,metro_core,177
+14187.428571,450271,Medical City Decatur,Decatur,76234.0,TX,482,small_town_core,482
+9588.3333333,050684,Menifee Global Medical Center,Sun City,92585.0,CA,189,metro_core,189
+15798.214286,450102,Christus Mother Frances Hospital,Tyler,75701.0,TX,240,metro_core,240
+15775.916667,160083,Mercyone Des Moines Medical Center,Des Moines,50314.0,IA,272,metro_core,272
+9155.6,140290,St Alexius Medical Center,Hoffman Estates,60169.0,IL,811,metro_core,811
+22292.95,340173,Wakemed,Cary,27518.0,NC,460,metro_core,460
+7569.0769231,380060,Adventist Health Portland,Portland,97216.0,OR,872,metro_core,872
+7774.5555556,330239,Upmc Chautauqua At Wca,Jamestown,14701.0,NY,291,micro_core,291
+9494.2857143,050382,Emanate Health Inter-Community Hospital,Covina,91723.0,CA,287,metro_core,287
+11475.444444,450104,Guadalupe Regional Medical Center,Seguin,78155.0,TX,470,micro_core,470
+16738.0,230029,Trinity Health Oakland Hospital,Pontiac,48341.0,MI,253,metro_core,253
+34311.380952,340028,Cape Fear Valley Medical Center,Fayetteville,28302.0,NC,853,metro_core,853
+5452.0,420027,Anmed Health,Anderson,29621.0,SC,638,metro_core,638
+15674.384615,220090,Milford Regional Medical Center,Milford,1757.0,MA,522,metro_core,522
+16833.75,150012,Saint Joseph Regional Medical Center,Mishawaka,46545.0,IN,208,metro_core,208
+14643.25,160079,Mercy Medical Center - Cedar Rapids,Cedar Rapids,52403.0,IA,483,metro_core,483
+19133.68,270014,St Patrick Hospital,Missoula,59806.0,MT,468,metro_core,468
+19435.736842,050022,Riverside Community Hospital,Riverside,92501.0,CA,432,metro_core,432
+12707.724138,160058,University Of Iowa Hospital & Clinics,Iowa City,52242.0,IA,377,metro_core,377
+3851.0943396,100105,Cleveland Clinic Indian River Hospital,Vero Beach,32960.0,FL,309,metro_core,309
+6400.7692308,330160,Staten Island University Hospital,Staten Island,10305.0,NY,066,metro_core,066
+5589.0465116,390063,Upmc Hamot,Erie,16550.0,PA,065,metro_core,065
+6107.1269841,450229,Hendrick Medical Center,Abilene,79601.0,TX,065,metro_core,065
+8906.8461538,150021,Parkview Regional Medical Center,Fort Wayne,46845.0,IN,086,metro_core,086
+7326.1818182,380090,Bay Area Hospital,Coos Bay,97420.0,OR,638,micro_core,638
+27848.307692,240106,Regions Hospital,Saint Paul,55101.0,MN,987,metro_core,987
+7157.5789474,190002,Ochsner Lafayette General Medical Center,Lafayette,70503.0,LA,175,metro_core,175
+17001.222222,200033,Northern Light Eastern Maine Medical Center,Bangor,4401.0,ME,253,metro_core,253
+5878.0,230167,Mclaren Greater Lansing,Lansing,48910.0,MI,897,metro_core,897
+23405.108108,450135,Texas Health Harris Methodist Fort Worth,Fort Worth,76104.0,TX,274,metro_core,274
+8246.0958904,190064,Our Lady Of The Lake Regional Medical Center,Baton Rouge,70808.0,LA,640,metro_core,640
+17380.679537,410007,Rhode Island Hospital,Providence,2903.0,RI,871,metro_core,871
+13098.533333,050567,Providence Mission Hospital,Mission Viejo,92691.0,CA,299,secondary_flow_metro,299
+30199.75,330198,Mount Sinai South Nassau,Oceanside,11572.0,NY,673,metro_core,673
+11256.835821,360020,Summa Health System,Akron,44309.0,OH,698,metro_core,698
+4193.9333333,390137,Wilkes-Barre General Hospital,Wilkes-Barre,18764.0,PA,281,metro_core,281
+6032.0,390004,Penn State Health Holy Spirit Medical Center,Camp Hill,17011.0,PA,872,metro_core,872
+10400.018868,040154,Baptist Health Medical Center- Conway,Conway,72032.0,AR,177,metro_core,177
+11866.818182,100131,Hca Florida Aventura Hospital,Aventura,33180.0,FL,917,metro_core,917
+37099.44,380018,Asante Rogue Regional Medical Center,Medford,97504.0,OR,025,metro_core,025
+13039.6,330350,Suny Health Science Center At Brooklyn University,Brooklyn,11203.0,NY,699,metro_core,699
+8607.1818182,050043,Alta Bates Summit Medical Center,Oakland,94609.0,CA,439,metro_core,439
+9388.0,100113,Uf Health Shands Hospital,Gainesville,32610.0,FL,190,metro_core,190
+12236.463768,050308,El Camino Hospital,Mountain View,94040.0,CA,689,metro_core,689
+31378.6,440183,St Francis Hospital,Memphis,38119.0,TN,853,metro_core,853
+13766.875,390097,Holy Redeemer Hospital And Medical Center,Meadowbrook,19046.0,PA,286,metro_core,286
+11742.5,110177,Doctors Hospital,Augusta,30909.0,GA,247,metro_core,247
+8090.4761905,100329,Oviedo Medical Center,Oviedo,32765.0,FL,189,metro_core,189
+5370.2765957,490018,Augusta Health,Fishersville,22939.0,VA,683,metro_core,683
+10455.090909,450709,Houston Methodist Clear Lake Hospital,Nassau Bay,77058.0,TX,196,metro_core,196
+41743.40625,330005,Kaleida Health,Buffalo,14210.0,NY,329,metro_core,329
+16026.586207,220066,Mercy Medical Ctr,Springfield,1104.0,MA,177,metro_core,177
+18950.157895,210056,Medstar Good Samaritan Hospital,Baltimore,21239.0,MD,064,metro_core,064
+62555.578947,050075,Kaiser Foundation Hospital - Oakland/Richmond,Oakland,94611.0,CA,853,metro_core,853
+195793.57143,220163,Umass Memorial Medical Center Inc,Worcester,1655.0,MA,004,metro_core,004
+9984.0344828,180130,Baptist Health Louisville,Louisville,40207.0,KY,165,metro_core,165
+8741.2777778,100044,Cleveland Clinic Martin North Hospital,Stuart,34994.0,FL,299,metro_core,299
+9077.3538462,050396,Santa Barbara Cottage Hospital,Santa Barbara,93102.0,CA,872,metro_core,872
+15028.684211,330140,St Joseph's Hospital Health Center,Syracuse,13203.0,NY,330,metro_core,330
+142115.58333,180040,Uofl Health - Jewish Hospital,Louisville,40202.0,KY,453,metro_core,453
+10769.333333,190045,St Tammany Parish Hospital,Covington,70433.0,LA,470,secondary_flow_metro,470
+9248.4166667,510055,"Cabell Huntington Hospital, Inc",Huntington,25701.0,WV,054,metro_core,054
+43522.038462,330286,Good Samaritan Hospital Medical Center,West Islip,11795.0,NY,270,metro_core,270
+5207.1488095,220074,"Southcoast Hospital Group, Inc",Fall River,2720.0,MA,392,metro_core,392
+13353.607143,340053,Novant Health Presbyterian Medical Center,Charlotte,28233.0,NC,247,metro_core,247
+8502.7692308,440238,Haywood County Community Hospital,Brownsville,38012.0,TN,867,small_town_core,Other
+10411.961905,110230,Emory Johns Creek Hospital,Johns Creek,30097.0,GA,177,metro_core,177
+7158.0769231,160029,University Of Iowa Health Care Medical Center Down,Iowa City,52245.0,IA,391,metro_core,391
+13364.555556,050039,Enloe Health,Chico,95926.0,CA,862,metro_core,862
+21900.258312,050367,Northbay Medical Center,Fairfield,94533.0,CA,871,metro_core,871
+7430.7272727,010006,North Alabama Medical Center,Florence,35630.0,AL,086,metro_core,086
+5249.8181818,100275,Wellington Regional Medical Center,Wellington,33414.0,FL,638,metro_core,638
+13685.151515,020026,Alaska Native Medical Center,Anchorage,99508.0,AK,065,metro_core,065
+9220.9444444,340183,Novant Health Huntersville Medical Center,Huntersville,28078.0,NC,280,metro_core,280
+12814.477679,240207,M Health Fairview Ridges Hospital,Burnsville,55337.0,MN,871,metro_core,871
+3957.7692308,440056,Tennova Healthcare Jefferson Memorial Hospital,Jefferson City,37760.0,TN,641,metro_core,641
+14199.137931,260105,Ssm Health Saint Louis University Hospital,Saint Louis,63110.0,MO,682,metro_core,682
+5519.1515152,380004,Providence St Vincent Medical Center,Portland,97225.0,OR,641,metro_core,641
+7858.5882353,140091,The Carle Foundation Hospital,Urbana,61801.0,IL,445,metro_core,445
+6017.5454545,100032,Orlando Health Bayfront Hospital,Saint Petersburg,33701.0,FL,149,metro_core,149
+12011.931034,150125,Community Hospital,Munster,46321.0,IN,247,metro_core,247
+11894.766667,190064,Our Lady Of The Lake Regional Medical Center,Baton Rouge,70808.0,LA,064,metro_core,064
+10361.0,250078,Forrest General Hospital,Hattiesburg,39404.0,MS,036,metro_core,036
+15731.342857,140281,Northwestern Memorial Hospital,Chicago,60611.0,IL,919,metro_core,919
+9157.0,240078,M Health Fairview Southdale Hospital,Edina,55435.0,MN,165,metro_core,165
+13960.047619,020026,Alaska Native Medical Center,Anchorage,99508.0,AK,190,metro_core,190
+12189.0,230097,Munson Medical Center,Traverse City,49684.0,MI,435,micro_core,435
+7108.7407407,330208,St John's Riverside Hospital,Yonkers,10701.0,NY,194,metro_core,194
+2332.9285714,160045,St Lukes Hospital,Cedar Rapids,52402.0,IA,390,metro_core,390
+8708.1616162,330160,Staten Island University Hospital,Staten Island,10305.0,NY,603,metro_core,603
+6793.7111111,390174,Thomas Jefferson University Hospital,Philadelphia,19107.0,PA,641,metro_core,641
+13930.566667,340014,Novant Health Forsyth Medical Center,Winston-Salem,27103.0,NC,522,metro_core,522
+8492.2192982,310073,Jersey Shore University Medical Center,Neptune,7753.0,NJ,689,metro_core,689
+6367.7575758,330279,Mercy Hospital Of Buffalo,Buffalo,14220.0,NY,872,metro_core,872
+5171.5454545,310034,Riverview Medical Center,Red Bank,7701.0,NJ,812,metro_core,812
+14301.692308,490113,Sentara Northern Virginia Medical Center,Woodbridge,22191.0,VA,286,metro_core,286
+17840.909091,050047,California Pacific Medical Center- Van Ness Campus,San Francisco,94109.0,CA,637,metro_core,637
+8317.3529412,240084,Essentia Health Virginia,Virginia,55792.0,MN,378,micro_core,378
+34764.2,100189,Hca Florida Northwest Hospital,Margate,33063.0,FL,853,metro_core,853
+15535.428571,220035,North Shore Medical Center -,Salem,1970.0,MA,244,metro_core,244
+10476.733333,230197,Ascension Genesys Hospital,Grand Blanc,48439.0,MI,299,metro_core,299
+4697.9130435,360276,Mh St Elizabeth Boardman Hospital,Boardman,44512.0,OH,812,metro_core,812
+5921.0909091,370025,Saint Francis Hospital Muskogee,Muskogee,74401.0,OK,190,micro_core,190
+3164.3636364,230227,Mclaren Macomb,Mount Clemens,48043.0,MI,310,metro_core,310
+5154.0,450137,Baylor Scott And White All Saints Medical Center,Fort Worth,76104.0,TX,552,metro_core,552
+6550.8888889,360009,Lima Memorial Health System,Lima,45804.0,OH,287,metro_core,287
+7554.9736842,110030,Piedmont Cartersville Medical Center,Cartersville,30120.0,GA,189,metro_core,189
+5792.6666667,100051,Orlando Health South Lake Hospital,Clermont,34711.0,FL,092,metro_core,092
+19054.022727,490022,"Mary Washington Hospital, Inc",Fredericksburg,22401.0,VA,246,secondary_flow_metro,246
+7267.6111111,190017,Opelousas General Health System,Opelousas,70570.0,LA,189,metro_high_commute,189
+18583.846154,230092,Henry Ford Health Jackson Hospital,Jackson,49201.0,MI,253,metro_high_commute,253
+13908.461538,360133,Kettering Health Dayton,Dayton,45405.0,OH,064,metro_core,064
+28994.647059,060116,Intermountain Health Good Samaritan Hospital,Lafayette,80026.0,CO,853,metro_core,853
+4423.0833333,230269,"Beaumont Hospital, Troy",Troy,48085.0,MI,176,metro_core,176
+38966.947368,290053,Saint Rose Dominican Hospitals - San Martin Campus,Las Vegas,89113.0,NV,235,metro_core,235
+36761.466667,500039,St Michael Medical Center,Bremerton,98310.0,WA,166,metro_core,166
+6281.1595745,490022,"Mary Washington Hospital, Inc",Fredericksburg,22401.0,VA,378,secondary_flow_metro,378
+7928.25,390226,Pennsylvania Hospital,Philadelphia,19107.0,PA,948,metro_core,948
+16070.933333,440137,Vanderbilt Bedford Hospital,Shelbyville,37160.0,TN,871,micro_core,871
+7597.9230769,500014,Providence Regional Medical Center Everett,Everett,98201.0,WA,184,metro_core,184
+19215.565217,050351,Torrance Memorial Medical Center,Torrance,90509.0,CA,483,unknown,483
+29731.793478,330393,Stony Brook University Hospital,Stony Brook,11794.0,NY,286,metro_core,286
+6008.7721519,100080,Hca Florida Jfk Hospital,Atlantis,33462.0,FL,312,metro_core,312
+5214.2941176,140067,Saint Francis Medical Center,Peoria,61637.0,IL,603,metro_core,603
+18348.928571,500064,Harborview Medical Center,Seattle,98104.0,WA,199,metro_core,199
+13501.909091,330304,White Plains Hospital Center,White Plains,10601.0,NY,435,metro_core,435
+7292.0714286,530012,Wyoming Medical Center,Casper,82601.0,WY,552,metro_core,552
+13005.545455,520066,Mercy Health System Corp,Janesville,53548.0,WI,322,metro_core,322
+12324.833333,260110,Mercy Hospital Southeast,Cape Girardeau,63701.0,MO,314,metro_core,314
+86216.545455,360137,Uh Cleveland Medical Center,Cleveland,44106.0,OH,216,metro_core,216
+10052.62931,380061,Providence Portland Medical Center,Portland,97213.0,OR,291,metro_core,291
+10123.181818,470003,University Of Vermont Medical Center,Burlington,5401.0,VT,299,metro_core,299
+10591.733333,360006,Riverside Methodist Hospital,Columbus,43214.0,OH,175,metro_core,175
+15284.461538,310017,Chilton Medical Center,Pompton Plains,7444.0,NJ,481,metro_core,481
+24913.529412,220163,Umass Memorial Medical Center Inc,Worcester,1655.0,MA,483,metro_core,483
+5300.3333333,180018,St Claire Regional Medical Center,Morehead,40351.0,KY,683,rural,683
+27628.785714,040010,Mercy Hospital Northwest Arkansas,Rogers,72758.0,AR,853,metro_core,853
+6132.0555556,310011,"Cape Regional Medical Center, Inc",Cape May Court House,8210.0,NJ,552,metro_core,552
+5664.3636364,060009,Lutheran Medical Center,Wheat Ridge,80033.0,CO,603,metro_core,603
+9292.1142857,050360,Marinhealth Medical Center,Greenbrae,94904.0,CA,065,metro_core,065
+13085.052632,220100,South Shore Hospital,South Weymouth,2190.0,MA,196,metro_core,196
+9514.0,190041,Christus Shreveport-Bossier Health System,Shreveport,71105.0,LA,435,metro_core,435
+13282.533333,450677,Texas Health Huguley Hospital Fort Worth South,Burleson,76028.0,TX,314,metro_core,314
+8608.8,050394,Community Memorial Hospital - Ventura,Ventura,93003.0,CA,394,metro_core,394
+13071.105263,100006,Orlando Health Orlando Regional Medical Center,Orlando,32806.0,FL,494,metro_core,494
+58724.72093,330104,Nyack Hospital,Nyack,10960.0,NY,870,metro_core,870
+14088.6875,220100,South Shore Hospital,South Weymouth,2190.0,MA,919,metro_core,919
+6314.3448276,450010,United Regional Health Care System,Wichita Falls,76301.0,TX,552,metro_core,552
+7091.6818182,240080,M Health Fairview University Of Mn,Minneapolis,55454.0,MN,315,metro_core,315
+5091.7368421,230193,Mclaren Lapeer Region,Lapeer,48446.0,MI,309,micro_core,309
+5159.65,310034,Riverview Medical Center,Red Bank,7701.0,NJ,191,metro_core,191
+14203.0,310022,West Jersey Hospital,Voorhees,8043.0,NJ,522,metro_core,522
+78899.380952,050017,Mercy General Hospital,Sacramento,95819.0,CA,233,metro_core,233
+12780.2,450119,South Texas Health System Behavioral,Edinburg,78539.0,TX,393,metro_core,393
+11979.839286,170086,Stormont Vail Hospital,Topeka,66604.0,KS,522,metro_core,522
+7452.3043478,210005,Frederick Health Hospital,Frederick,21701.0,MD,536,secondary_flow_metro,536
+14247.266667,060034,Swedish Medical Center,Englewood,80113.0,CO,516,metro_core,516
+3618.7272727,010046,Riverview Regional Medical Center,Gadsden,35901.0,AL,312,metro_core,312
+24242.753968,050599,University Of California Davis Medical Center,Sacramento,95817.0,CA,177,metro_core,177
+9963.1538462,470003,University Of Vermont Medical Center,Burlington,5401.0,VT,070,metro_core,070
+11378.583333,340147,Unc Health Nash,Rocky Mount,27804.0,NC,441,metro_core,441
+20814.333333,310019,St Joseph's University Medical Center Inc,Paterson,7503.0,NJ,314,metro_core,314
+10178.083333,330195,Long Island Jewish Medical Center,New Hyde Park,11040.0,NY,661,metro_core,661
+30626.941176,280134,Kearney Regional Medical Center,Kearney,68845.0,NE,454,micro_core,454
+8643.875,380009,Ohsu Hospital And Clinics,Portland,97239.0,OR,603,metro_core,603
+9611.4141414,360364,Cleveland Clinic Avon Hospital,Avon,44011.0,OH,177,metro_core,177
+6524.8863636,330005,Kaleida Health,Buffalo,14210.0,NY,603,metro_core,603
+4314.375,140007,Presence Saint Joseph Medical Center,Joliet,60435.0,IL,309,metro_core,309
+7377.3877551,450137,Baylor Scott And White All Saints Medical Center,Fort Worth,76104.0,TX,699,metro_core,699
+4738.5,150169,Community Hospital North,Indianapolis,46256.0,IN,641,metro_core,641
+10611.153846,050100,Sharp Memorial Hospital,San Diego,92123.0,CA,637,metro_core,637
+17854.5,240001,North Memorial Health,Robbinsdale,55422.0,MN,253,metro_core,253
+4798.1176471,140233,Saint Anthony Medical Center,Rockford,61108.0,IL,641,metro_core,641
+19002.873626,050042,St Elizabeth Community Hospital,Red Bluff,96080.0,CA,871,micro_core,871
+25646.0,140276,Loyola University Medical Center,Maywood,60153.0,IL,464,metro_core,464
+19101.777778,390046,Wellspan York Hospital,York,17403.0,PA,982,metro_core,982
+9519.7222222,350015,Sanford Medical Center Bismarck,Bismarck,58506.0,ND,811,metro_core,811
+9635.1785714,230244,Garden City Hospital,Garden City,48135.0,MI,640,metro_core,640
+4431.7058824,030147,Banner Ocotillo Medical Center,Chandler,85286.0,AZ,683,metro_core,683
+10253.5,230092,Henry Ford Health Jackson Hospital,Jackson,49201.0,MI,602,metro_high_commute,602
+13169.666667,150035,Northwest  Health- Porter,Valparaiso,46383.0,IN,377,metro_core,377
+4706.0909091,360001,Mercy Health-Anderson Hospital,Cincinnati,45255.0,OH,563,metro_core,563
+36089.583333,230269,"Beaumont Hospital, Troy",Troy,48085.0,MI,207,metro_core,207
+29333.727273,230230,Edward W Sparrow Hospital,Lansing,48912.0,MI,270,metro_core,270
+11094.714286,110008,Northside Hospital Cherokee,Canton,30115.0,GA,551,metro_core,551
+12568.125,320005,San Juan Regional Medical Center Inc,Farmington,87401.0,NM,682,metro_core,682
+7371.05,390113,Meadville Medical Center,Meadville,16335.0,PA,689,micro_core,689
+51208.315789,050454,Ucsf Medical Center,San Francisco,94143.0,CA,029,metro_core,029
+10017.846154,100110,Hca Florida Osceola Hospital,Kissimmee,34741.0,FL,189,secondary_flow_metro,189
+32666.235294,310039,Raritan Bay Medical Center,Perth Amboy,8861.0,NJ,329,metro_core,329
+10545.8,450184,Memorial Hermann Hospital System,Houston,77008.0,TX,054,metro_core,054
+49121.909091,050625,Cedars-Sinai Medical Center,Los Angeles,90048.0,CA,356,metro_core,356
+4498.2727273,250040,Singing River Health System,Pascagoula,39581.0,MS,194,metro_core,194
+12877.7,050380,Good Samaritan Hospital,San Jose,95124.0,CA,175,metro_core,175
+9742.5909091,050488,Eden Medical Center,Castro Valley,94546.0,CA,552,metro_core,552
+4317.48,390330,St Luke's Hospital - Monroe Campus,Stroudsburg,18360.0,PA,305,metro_core,305
+18055.444444,310108,Jfk University Medical Center,Edison,8820.0,NJ,330,metro_core,330
+7404.0769231,450209,Northwest Texas Hospital,Amarillo,79106.0,TX,101,metro_core,101
+34277.454545,030014,Honorhealth John C. Lincoln Medical Center,Phoenix,85020.0,AZ,981,metro_core,981
+4740.6190476,340015,Novant Health Rowan Medical Center,Salisbury,28144.0,NC,641,metro_core,641
+5015.1818182,180027,Murray-Calloway County Hospital,Murray,42071.0,KY,536,micro_core,536
+19212.230769,050126,Valley Presbyterian Hospital,Van Nuys,91406.0,CA,377,metro_core,377
+63767.125,050424,Scripps Green Hospital,La Jolla,92037.0,CA,457,metro_core,457
+13154.538462,390049,St Luke's Hospital Bethlehem,Bethlehem,18015.0,PA,371,metro_core,371
+28748.296296,450068,Memorial Hermann Texas Medical Center,Houston,77030.0,TX,652,metro_core,652
+6749.9333333,500050,Peacehealth Southwest Medical Cente,Vancouver,98668.0,WA,603,metro_core,603
+12059.791667,210028,Medstar Saint Mary's Hospital,Leonardtown,20650.0,MD,640,metro_high_commute,640
+6139.6666667,140130,Northwestern Lake Forest Hospital,Lake Forest,60045.0,IL,103,metro_core,103
+11581.555556,490007,Sentara Norfolk General Hospital,Norfolk,23507.0,VA,640,metro_core,640
+28668.888889,390111,Hospital Of Univ Of Pennsylvania,Philadelphia,19104.0,PA,208,metro_core,208
+21220.333333,500051,Overlake Hospital Medical Center,Bellevue,98004.0,WA,208,metro_core,208
+28245.990566,160058,University Of Iowa Hospital & Clinics,Iowa City,52242.0,IA,460,metro_core,460
+30048.4,420036,Musc Health Lancaster Medical Center,Lancaster,29720.0,SC,853,micro_high_commute,853
+6611.0,160080,Mercyone Clinton Medical Center,Clinton,52732.0,IA,683,micro_core,683
+12988.983402,050496,John Muir Medical Center - Concord Campus,Concord,94520.0,CA,291,metro_core,291
+6361.9259259,340002,Memorial Mission Hospital And Asheville Surgery Ce,Asheville,28801.0,NC,433,metro_core,433
+11236.65,330267,Hudson Valley Hospital Center,Cortlandt Manor,10567.0,NY,637,metro_core,637
+8389.4166667,140148,Memorial Medical Center,Springfield,62702.0,IL,660,metro_core,660
+4459.8947368,370014,Alliancehealth Durant,Durant,74702.0,OK,069,micro_core,069
+21294.52381,150023,Union Hospital Inc,Terre Haute,47804.0,IN,246,metro_core,246
+7926.75,220119,Brigham And Women's Faulkner Hospital,Boston,2130.0,MA,092,metro_core,092
+8697.4137931,500077,Providence Holy Family Hospital,Spokane,99208.0,WA,193,metro_core,193
+5501.0,220035,North Shore Medical Center -,Salem,1970.0,MA,313,metro_core,313
+14270.285714,210011,Saint Agnes Hospital,Baltimore,21229.0,MD,039,metro_core,039
+21313.076923,100018,Naples Community Hospital,Naples,34102.0,FL,477,metro_core,477
+5231.4,110032,Stephens County Hospital,Toccoa,30577.0,GA,690,micro_core,690
+13743.909091,050625,Cedars-Sinai Medical Center,Los Angeles,90048.0,CA,073,metro_core,073
+13167.230769,390137,Wilkes-Barre General Hospital,Wilkes-Barre,18764.0,PA,522,metro_core,522
+20525.1875,060022,University Colo Health Memorial Hospital Central,Colorado Springs,80909.0,CO,246,metro_core,246
+53784.333333,220071,Massachusetts General Hospital,Boston,2114.0,MA,904,metro_core,Other
+23352.461538,390225,Wellspan Ephrata Community Hospital,Ephrata,17522.0,PA,467,metro_core,467
+11277.375,340073,Duke Health Raleigh Hospital,Raleigh,27609.0,NC,314,metro_core,314
+5822.125,140091,The Carle Foundation Hospital,Urbana,61801.0,IL,563,metro_core,563
+11242.942857,100242,Hca Florida Gulf Coast Hospital,Panama City,32405.0,FL,377,metro_core,377
+18737.4375,020026,Alaska Native Medical Center,Anchorage,99508.0,AK,280,metro_core,280
+7754.0,330055,New York-Presbyterian/Queens,Flushing,11355.0,NY,389,metro_core,389
+8406.2307692,390133,Lehigh Valley Hospital,Allentown,18103.0,PA,593,metro_core,Other
+7603.3846154,050295,Mercy Hospital,Bakersfield,93301.0,CA,603,metro_core,603
+10799.8,340114,Rex Hospital,Raleigh,27607.0,NC,444,metro_core,444
+11833.714286,430077,Monument Health Rapid City Hospital,Rapid City,57701.0,SD,175,metro_core,175
+8832.3529412,100040,Ascension St Vincent's Riverside,Jacksonville,32204.0,FL,811,metro_core,811
+28935.538462,100019,Holmes Regional Medical Center,Melbourne,32901.0,FL,163,metro_core,163
+6020.6486486,510050,"Wheeling Hospital, Inc",Wheeling,26003.0,WV,190,metro_core,190
+13436.295302,450587,Hendrick Medical Center Brownwood,Brownwood,76801.0,TX,871,micro_core,871
+6116.559322,390001,Geisinger Community Medical Center,Scranton,18510.0,PA,065,metro_core,065
+14659.545455,430005,Prairie Lakes Hospital,Watertown,57201.0,SD,481,micro_core,481
+6420.702381,180130,Baptist Health Louisville,Louisville,40207.0,KY,640,metro_core,640
+5448.8666667,260191,Barnes-Jewish St Peters Hospital,Saint Peters,63376.0,MO,190,metro_core,190
+14970.933333,100022,Jackson Memorial Hospital,Miami,33136.0,FL,558,metro_core,558
+4545.375,390147,Penn Highlands Mon Valley,Monongahela,15063.0,PA,603,secondary_flow_metro,603
+8178.3333333,280060,Chi Health Creighton University Medical Center - B,Omaha,68124.0,NE,603,metro_core,603
+22936.142857,050043,Alta Bates Summit Medical Center,Oakland,94609.0,CA,522,metro_core,522
+9871.2941176,290041,Summerlin Hospital Medical Center,Las Vegas,89144.0,NV,175,metro_core,175
+8291.1428571,050481,West Hills Hospital & Medical Center,West Hills,91307.0,CA,378,metro_core,378
+3604.3636364,390107,Upmc Passavant,Pittsburgh,15237.0,PA,069,metro_core,069
+4753.22,520206,Aurora Medical Center Summit,Summit,53066.0,WI,872,metro_core,872
+6700.875,110028,Piedmont Augusta Hospital,Augusta,30901.0,GA,039,metro_core,039
+5865.6857143,260068,Boone Hospital Center,Columbia,65201.0,MO,689,metro_core,689
+5835.9508197,140116,Northwestern Medicine Mchenry Hospital,Mchenry,60050.0,IL,603,metro_high_commute,603
+5539.25,100073,Holy Cross Hospital,Fort Lauderdale,33308.0,FL,563,metro_core,563
+12811.164948,520098,University Of Wi  Hospitals & Clinics Authority,Madison,53792.0,WI,682,metro_core,682
+10612.461538,370093,O U Health University Of Oklahoma Medical Center,Oklahoma City,73104.0,OK,445,metro_core,445
+8429.974359,360006,Riverside Methodist Hospital,Columbus,43214.0,OH,086,metro_core,086
+4652.1333333,100093,Baptist Hospital,Pensacola,32503.0,FL,282,metro_core,282
+6595.7272727,150128,Community Hospital South,Indianapolis,46227.0,IN,071,metro_core,071
+12119.7,210033,Carroll Hospital Center,Westminster,21157.0,MD,057,metro_high_commute,057
+5551.4117647,190017,Opelousas General Health System,Opelousas,70570.0,LA,872,metro_high_commute,872
+11388.090909,100063,Morton Plant North Bay Hospital,New Port Richey,34652.0,FL,100,metro_core,100
+10268.909091,330332,St Joseph Hospital,Bethpage,11714.0,NY,813,metro_core,813
+16130.157895,100131,Hca Florida Aventura Hospital,Aventura,33180.0,FL,481,metro_core,481
+37195.647059,330101,New York-Presbyterian Hospital,New York,10065.0,NY,250,metro_core,Other
+11337.8125,050382,Emanate Health Inter-Community Hospital,Covina,91723.0,CA,193,metro_core,193
+33452.786885,330119,Lenox Hill Hospital,New York,10021.0,NY,274,metro_core,274
+4912.75,440187,Livingston Regional Hospital,Livingston,38570.0,TN,194,secondary_flow_micro,194
+20234.0,170123,Wesley Medical Center,Wichita,67214.0,KS,040,metro_core,040
+7921.4347826,450010,United Regional Health Care System,Wichita Falls,76301.0,TX,304,metro_core,304
+7353.6823529,230020,Beaumont Hospital - Dearborn,Dearborn,48124.0,MI,190,metro_core,190
+14946.8,140182,Advocate Illinois Masonic Medical Center,Chicago,60657.0,IL,682,metro_core,682
+5734.0625,440012,Bristol Regional Medical Center,Bristol,37620.0,TN,445,metro_core,445
+26276.583333,210043,Umd Baltimore Washington  Medical Center,Glen Burnie,21061.0,MD,035,metro_core,035
+8945.3461538,100075,St Josephs Hospital,Tampa,33677.0,FL,640,metro_core,640
+4311.1333333,450484,Woodland Heights Medical Center,Lufkin,75904.0,TX,389,micro_core,389
+11504.12069,100253,Jupiter Medical Center,Jupiter,33458.0,FL,481,metro_core,481
+9114.0,100039,Broward Health Medical Center,Fort Lauderdale,33316.0,FL,563,metro_core,563
+4202.5333333,670056,Ascension  Seton Hays,Kyle,78640.0,TX,310,micro_core,310
+5465.0,050551,Uci Health – Los Alamitos,Los Alamitos,90720.0,CA,948,metro_core,948
+11002.3125,110215,Piedmont Fayette Hospital,Fayetteville,30214.0,GA,435,metro_core,435
+22679.702206,220071,Massachusetts General Hospital,Boston,2114.0,MA,871,metro_core,871
+26174.916667,330059,Montefiore Medical Center,Bronx,10467.0,NY,082,metro_core,082
+5177.1428571,110042,Wellstar Paulding Medical Center,Hiram,30141.0,GA,065,metro_core,065
+14379.166667,230095,Mymichigan Medical Center West Branch,West Branch,48661.0,MI,177,rural,177
+11800.333333,100329,Oviedo Medical Center,Oviedo,32765.0,FL,064,metro_core,064
+18797.944444,050239,Glendale Adventist Medical Center,Glendale,91206.0,CA,854,metro_core,854
+36469.818182,310041,Community Medical Center,Toms River,8755.0,NJ,270,metro_core,270
+4469.8461538,160079,Mercy Medical Center - Cedar Rapids,Cedar Rapids,52403.0,IA,069,metro_core,069
+6784.5555556,230141,Mclaren Flint,Flint,48532.0,MI,300,metro_core,300
+13552.981481,450135,Texas Health Harris Methodist Fort Worth,Fort Worth,76104.0,TX,100,metro_core,100
+11127.365079,220101,Newton-Wellesley Hospital,Newton,2462.0,MA,682,metro_core,682
+304956.83333,380007,Legacy Emanuel Medical Center,Portland,97227.0,OR,003,metro_core,003
+12047.545455,220063,Lowell General Hospital,Lowell,1854.0,MA,205,metro_core,205
+7279.7777778,330107,Peconic Bay Medical Center,Riverhead,11901.0,NY,281,metro_core,281
+6769.96,450462,Texas Health Presbyterian Hospital  Dallas,Dallas,75231.0,TX,092,metro_core,092
+10182.111111,450054,Baylor Scott & White Medical  Center - Temple,Temple,76508.0,TX,947,metro_core,947
+7968.6923077,510022,Charleston Area Medical Center,Charleston,25301.0,WV,637,metro_core,637
+7966.8666667,340008,Scotland Memorial Hospital,Laurinburg,28352.0,NC,640,micro_core,640
+11734.333333,230059,Trinity Health Grand Rapids Hospital,Grand Rapids,49503.0,MI,100,metro_core,100
+7433.4615385,100315,Viera Hospital,Melbourne,32940.0,FL,748,metro_core,Other
+11523.913295,330241,University Hospital S U N Y Health Science Center,Syracuse,13210.0,NY,291,metro_core,291
+14031.111111,230046,University Of Michigan Health,Ann Arbor,48109.0,MI,054,metro_core,054
+16227.424242,220110,Brigham And Women's Hospital,Boston,2115.0,MA,331,metro_core,331
+23468.885714,140053,St Johns Hospital,Springfield,62769.0,IL,460,metro_core,460
+24382.631579,180040,Uofl Health - Jewish Hospital,Louisville,40202.0,KY,252,metro_core,252
+15610.533333,520041,Aspirus Divine Savior Hospital,Portage,53901.0,WI,177,micro_core,177
+33289.833333,390267,Forbes Hospital,Monroeville,15146.0,PA,853,metro_core,853
+4606.0,230216,Mclaren Port Huron,Port Huron,48060.0,MI,603,metro_core,603
+6746.0833333,390114,Magee Womens Hospital Of Upmc Health System,Pittsburgh,15213.0,PA,743,metro_core,743
+9280.75,220010,Lawrence General Hospital,Lawrence,1842.0,MA,287,metro_core,287
+8017.04,330024,Mount Sinai Hospital,New York,10029.0,NY,313,metro_core,313
+7618.7916667,360180,Cleveland Clinic,Cleveland,44195.0,OH,092,metro_core,092
+7970.9,030103,Mayo Clinic Hospital,Phoenix,85054.0,AZ,864,metro_core,864
+18214.708333,050394,Community Memorial Hospital - Ventura,Ventura,93003.0,CA,247,metro_core,247
+3477.1176471,250102,Mississippi Baptist Medical Center,Jackson,39202.0,MS,638,metro_core,638
+14477.384615,340030,Duke University Hospital,Durham,27705.0,NC,418,metro_core,418
+4478.6666667,250048,St Dominic-Jackson Memorial Hospital,Jackson,39216.0,MS,191,metro_core,191
+12280.0,310073,Jersey Shore University Medical Center,Neptune,7753.0,NJ,070,metro_core,070
+28278.6,520098,University Of Wi  Hospitals & Clinics Authority,Madison,53792.0,WI,274,metro_core,274
+83454.769231,420018,Prisma Health Richland Hospital,Columbia,29203.0,SC,219,metro_core,219
+58936.333333,050283,Stanford Health Care - Valleycare,Pleasanton,94588.0,CA,853,metro_core,853
+23540.090909,490017,Bon Secours Maryview Medical Center,Portsmouth,23707.0,VA,246,metro_core,246
+32530.121951,340040,Ecu Health Medical Center,Greenville,27834.0,NC,981,metro_core,981
+5290.4090909,230176,Beaumont Hospital - Trenton,Trenton,48183.0,MI,191,metro_core,191
+8200.4285714,390326,St Luke's Hospital - Anderson Campus,Easton,18045.0,PA,184,metro_core,184
+15974.0,180035,St Elizabeth Medical Center North,Edgewood,41017.0,KY,417,metro_core,417
+5199.952381,490024,Carilion Roanoke Memorial Hospital,Roanoke,24014.0,VA,690,metro_core,690
+15580.862069,340183,Novant Health Huntersville Medical Center,Huntersville,28078.0,NC,330,metro_core,330
+4949.9333333,390028,Upmc Mercy,Pittsburgh,15219.0,PA,392,metro_core,392
+13504.115385,340147,Unc Health Nash,Rocky Mount,27804.0,NC,286,metro_core,286
+33322.230769,390050,Allegheny General Hospital,Pittsburgh,15212.0,PA,252,metro_core,252
+26532.322581,510022,Charleston Area Medical Center,Charleston,25301.0,WV,236,metro_core,236
+12686.375,180102,Mercy Health Lourdes Hospital,Paducah,42003.0,KY,286,micro_core,286
+31783.361702,170122,"Ascension Via Christi Hospitals Wichita, Inc.",Wichita,67214.0,KS,163,metro_core,163
+7502.8378378,410007,Rhode Island Hospital,Providence,2903.0,RI,101,metro_core,101
+44584.0,290061,Northern Nevada Sierra Medical Center,Reno,89511.0,NV,266,metro_core,266
+32840.101449,210009,"Johns Hopkins Hospital, The",Baltimore,21287.0,MD,811,metro_core,811
+16686.166667,390329,Einstein Medical Center Montgomery,East Norriton,19403.0,PA,243,metro_core,243
+53245.714286,340141,Novant Health New Hanover Regional Medical Center,Wilmington,28402.0,NC,207,metro_core,207
+18839.375,390137,Wilkes-Barre General Hospital,Wilkes-Barre,18764.0,PA,246,metro_core,246
+12397.666667,490059,Bon Secours St Marys Hospital,Richmond,23226.0,VA,432,metro_core,432
+4370.8823529,340129,Lake Norman Regional Medical Center,Mooresville,28117.0,NC,690,metro_core,690
+21777.5,030084,Chinle Comprehensive Health Care Facility,Chinle,86503.0,AZ,871,metro_high_commute,871
+50580.068182,100087,Sarasota Memorial Hospital,Sarasota,34239.0,FL,219,metro_core,219
+6390.9230769,450021,Baylor University Medical Center,Dallas,75246.0,TX,536,metro_core,536
+43544.310345,060034,Swedish Medical Center,Englewood,80113.0,CO,266,metro_core,266
+10811.428571,260091,Ssm Health St Mary's Hospital - St Louis,Richmond Heights,63117.0,MO,193,metro_core,193
+38003.363636,010033,University Of Alabama Hospital,Birmingham,35233.0,AL,471,metro_core,471
+7323.5348837,100258,Delray Medical Center,Delray Beach,33484.0,FL,640,metro_core,640
+2904.6956522,150082,Deaconess Hospital Inc,Evansville,47710.0,IN,390,metro_core,390
+47799.882353,340098,Atrium Health Pineville,Charlotte,28210.0,NC,219,metro_core,219
+12549.571429,360276,Mh St Elizabeth Boardman Hospital,Boardman,44512.0,OH,522,metro_core,522
+8592.1818182,210051,"Luminis Health Doctors Community Medical Ctr, Inc",Lanham,20706.0,MD,603,metro_core,603
+11642.0,100259,Hca Florida South Shore Hospital,Sun City Center,33573.0,FL,516,metro_core,516
+56250.333333,050625,Cedars-Sinai Medical Center,Los Angeles,90048.0,CA,235,metro_core,235
+12815.363636,110007,Phoebe Putney Memorial Hospital,Albany,31703.0,GA,418,metro_core,418
+13785.25,340073,Duke Health Raleigh Hospital,Raleigh,27609.0,NC,027,metro_core,027
+8070.5666667,100223,Hca Florida Fort Walton-Destin Hospital,Fort Walton Beach,32547.0,FL,660,metro_core,660
+22259.769231,460042,Lakeview Hospital,Bountiful,84010.0,UT,467,metro_core,467
+2425.3636364,100359,Sarasota Memorial Hospital - Venice,North Venice,34275.0,FL,440,metro_core,440
+7319.8965517,360001,Mercy Health-Anderson Hospital,Cincinnati,45255.0,OH,640,metro_core,640
+13111.659574,100167,Hca Florida Mercy Hospital,Miami,33133.0,FL,177,metro_core,177
+14503.131313,240213,M Health Fairview Woodwinds Hospital,Woodbury,55125.0,MN,871,metro_core,871
+44880.663265,450358,Houston Methodist Hospital,Houston,77030.0,TX,235,metro_core,235
+12250.35,050424,Scripps Green Hospital,La Jolla,92037.0,CA,520,metro_core,520
+4811.8333333,360276,Mh St Elizabeth Boardman Hospital,Boardman,44512.0,OH,638,metro_core,638
+49715.0,100087,Sarasota Memorial Hospital,Sarasota,34239.0,FL,233,metro_core,233
+10258.190476,450324,Texoma Medical Center,Denison,75020.0,TX,299,metro_core,299
+34552.619048,310034,Riverview Medical Center,Red Bank,7701.0,NJ,853,metro_core,853
+6098.9795918,510023,"Weirton Medical Center, Inc",Weirton,26062.0,WV,689,metro_core,689
+36015.818182,100052,Winter Haven Hospital,Winter Haven,33881.0,FL,220,metro_core,220
+10666.916667,370202,Hillcrest Hospital South,Tulsa,74133.0,OK,286,metro_core,286
+11518.076923,360211,Trinity Medical Ctr East &trinity Medical Ctr West,Steubenville,43952.0,OH,247,metro_core,247
+5219.875,390153,Paoli Hospital,Paoli,19301.0,PA,605,metro_core,605
+4636.1538462,190064,Our Lady Of The Lake Regional Medical Center,Baton Rouge,70808.0,LA,536,metro_core,536
+3495.3333333,100012,Lee Memorial Hospital,Fort Myers,33901.0,FL,684,metro_core,684
+11217.25,100232,Hca Florida Putnam Hospital,Palatka,32177.0,FL,247,micro_core,247
+16052.166667,220063,Lowell General Hospital,Lowell,1854.0,MA,516,metro_core,516
+7092.1538462,390027,Temple University Hospital,Philadelphia,19140.0,PA,313,metro_core,313
+13274.375,110168,Adventhealth Redmond,Rome,30165.0,GA,322,metro_high_commute,322
+14196.494253,310108,Jfk University Medical Center,Edison,8820.0,NJ,698,metro_core,698
+3055.1,340091,Cone Health,Greensboro,27401.0,NC,390,metro_core,390
+9691.1034483,330246,St Charles Hospital,Port Jefferson,11777.0,NY,193,metro_core,193
+6303.5384615,450231,Bsa Hospital,Amarillo,79106.0,TX,372,metro_core,372
+14030.307692,020001,Providence Alaska Medical Center,Anchorage,99508.0,AK,862,metro_core,862
+18908.428571,670059,St Lukes Lakeside Hospital,The Woodlands,77384.0,TX,472,secondary_flow_metro,472
+10218.916667,100128,Tampa General Hospital,Tampa,33606.0,FL,809,metro_core,809
+8638.9565217,410012,The Miriam Hospital,Providence,2906.0,RI,445,metro_core,445
+14008.723684,050309,Sutter Roseville Medical Center,Roseville,95661.0,CA,280,metro_core,280
+8413.3565891,030036,Chandler Regional Medical Center,Chandler,85224.0,AZ,291,metro_core,291
+10385.636364,210034,Medstar Harbor Hospital,Baltimore,21225.0,MD,309,metro_core,309
+5426.4090909,100269,Hca Florida Palms West Hospital,Loxahatchee,33470.0,FL,690,metro_core,690
+10369.733333,050108,"Sutter Medical Center, Sacramento",Sacramento,95816.0,CA,190,metro_core,190
+5848.4909091,450820,Houston Methodist Sugarland Hospital,Sugar Land,77479.0,TX,065,metro_core,065
+14682.447059,140067,Saint Francis Medical Center,Peoria,61637.0,IL,481,metro_core,481
+8756.2727273,160033,Genesis Medical Center-Davenport,Davenport,52803.0,IA,682,metro_core,682
+39253.709091,230066,Trinity Health Muskegon Hospital,Muskegon,49441.0,MI,853,metro_core,853
+4733.6470588,230254,Ascension Providence Rochester Hospital,Rochester,48307.0,MI,392,metro_core,392
+5038.2173913,300034,Catholic Medical Center,Manchester,3102.0,NH,069,metro_core,069
+8654.0,520087,Gundersen Lutheran Medical Center,La Crosse,54601.0,WI,308,metro_core,308
+7046.7894737,150023,Union Hospital Inc,Terre Haute,47804.0,IN,039,metro_core,039
+13714.318182,360134,Good Samaritan Hospital,Cincinnati,45220.0,OH,481,metro_core,481
+5198.6875,450571,Shannon Medical Center,San Angelo,76903.0,TX,394,metro_core,394
+13209.875,520008,Prohealth Waukesha Memorial Hospital,Waukesha,53188.0,WI,286,metro_core,286
+6746.6153846,410013,Westerly Hospital,Westerly,2891.0,RI,190,metro_core,190
+27513.575,410007,Rhode Island Hospital,Providence,2903.0,RI,246,metro_core,246
+14947.428571,050549,Los Robles Hospital & Medical Center,Thousand Oaks,91360.0,CA,247,metro_core,247
+28933.684211,230097,Munson Medical Center,Traverse City,49684.0,MI,242,micro_core,242
+4475.4117647,470005,Rutland Regional Medical Center,Rutland,5701.0,VT,178,micro_core,178
+4470.125,360364,Cleveland Clinic Avon Hospital,Avon,44011.0,OH,394,metro_core,394
+9612.25,220071,Massachusetts General Hospital,Boston,2114.0,MA,381,metro_core,381
+20096.0,030119,Mercy Gilbert Medical Center,Gilbert,85297.0,AZ,480,metro_core,480
+59594.266667,360017,Grant Medical Center,Columbus,43215.0,OH,957,metro_core,957
+18339.625,330208,St John's Riverside Hospital,Yonkers,10701.0,NY,177,metro_core,177
+39913.5,280128,Chi Health Nebraska Heart,Lincoln,68526.0,NE,233,metro_core,233
+4466.1,390153,Paoli Hospital,Paoli,19301.0,PA,191,metro_core,191
+33986.318182,080001,Christianacare,Newark,19718.0,DE,809,metro_core,809
+43829.238095,490021,"Centra  Health, Inc",Lynchburg,24501.0,VA,266,metro_core,266
+5743.4901961,390195,Lankenau Medical Center,Wynnewood,19096.0,PA,690,metro_core,690
+12373.090909,230195,Ascension Macomb Oakland Hosp-Warren Campus,Warren,48093.0,MI,070,metro_core,070
+17010.148936,060013,Mercy Hospital,Durango,81301.0,CO,871,micro_core,871
+11628.934426,050107,Marian Regional Medical Center,Santa Maria,93454.0,CA,189,metro_core,189
+5084.3636364,340015,Novant Health Rowan Medical Center,Salisbury,28144.0,NC,897,metro_core,897
+4729.1935484,100023,Hca Florida Citrus Hospital,Inverness,34452.0,FL,069,metro_core,069
+7950.8125,450713,St David's South Austin Medical Center,Austin,78704.0,TX,391,metro_core,391
+11535.194444,520009,Ascension Ne Wisconsin - St Elizabeth Campus,Appleton,54915.0,WI,177,metro_core,177
+3062.0,330140,St Joseph's Hospital Health Center,Syracuse,13203.0,NY,310,metro_core,310
+61323.666667,090001,George Washington Univ Hospital,Washington,20037.0,DC,025,metro_core,025
+13149.258065,360001,Mercy Health-Anderson Hospital,Cincinnati,45255.0,OH,286,metro_core,286
+13235.294118,330013,Albany Medical Center Hospital,Albany,12208.0,NY,180,metro_core,180
+3575.1818182,330307,Cayuga Medical Center At Ithaca,Ithaca,14850.0,NY,951,metro_core,951
+5416.125,010103,Princeton Baptist Medical Center,Birmingham,35211.0,AL,281,metro_core,281
+9990.4375,100244,Cape Coral Hospital,Cape Coral,33990.0,FL,698,metro_core,698
+4872.8709677,310012,Valley Hospital,Ridgewood,7450.0,NJ,149,metro_core,149
+4008.9666667,010005,Marshall Medical Centers South Campus,Boaz,35957.0,AL,392,micro_core,392
+6722.25,150169,Community Hospital North,Indianapolis,46256.0,IN,372,metro_core,372
+10240.318182,030036,Chandler Regional Medical Center,Chandler,85224.0,AZ,482,metro_core,482
+9298.8421053,100038,Memorial Regional Hospital,Hollywood,33021.0,FL,281,metro_core,281
+21598.79878,150082,Deaconess Hospital Inc,Evansville,47710.0,IN,274,metro_core,274
+10333.08,170123,Wesley Medical Center,Wichita,67214.0,KS,551,metro_core,551
+17583.666667,370114,Ascension St John Medical Center,Tulsa,74104.0,OK,659,metro_core,659
+4012.0857143,390267,Forbes Hospital,Monroeville,15146.0,PA,309,metro_core,309
+7407.3866667,220101,Newton-Wellesley Hospital,Newton,2462.0,MA,872,metro_core,872
+14247.363636,110006,St Mary's Hospital,Athens,30606.0,GA,314,metro_core,314
+55675.111111,420004,Musc Medical Center,Charleston,29425.0,SC,454,metro_core,454
+6302.125,070002,Saint Francis Hospital & Medical Center,Hartford,6105.0,CT,392,metro_core,392
+15584.88,050775,Temecula Valley Hospital,Temecula,92592.0,CA,280,metro_core,280
+11102.727273,110064,Piedmont Columbus Regional Midtown,Columbus,31901.0,GA,698,metro_core,698
+11374.25,310113,Southern Ocean Medical Center,Manahawkin,8050.0,NJ,064,metro_core,064
+8256.2941176,050107,Marian Regional Medical Center,Santa Maria,93454.0,CA,281,metro_core,281
+4439.3703704,440003,Sumner Regional Medical Center,Gallatin,37066.0,TN,690,metro_core,690
+5637.9285714,030085,Northwest Medical Center,Tucson,85741.0,AZ,661,metro_core,661
+6398.3636364,230035,Corewell Health United Hospital,Greenville,48838.0,MI,872,small_town_core,872
+9435.53125,430014,Avera St Lukes,Aberdeen,57401.0,SD,280,micro_core,280
+13212.0,050242,Dominican Hospital,Santa Cruz,95065.0,CA,175,metro_core,175
+10375.123288,490067,Bon Secours Southside Medical Center,Petersburg,23805.0,VA,280,metro_core,280
+17548.142857,390174,Thomas Jefferson University Hospital,Philadelphia,19107.0,PA,254,metro_core,254
+9389.092233,140197,Methodist Hospital Of Chicago,Chicago,60640.0,IL,885,metro_core,885
+16590.944444,450184,Memorial Hermann Hospital System,Houston,77008.0,TX,243,metro_core,243
+72813.090909,090003,Howard University Hospital,Washington,20060.0,DC,870,metro_core,870
+110583.6875,390111,Hospital Of Univ Of Pennsylvania,Philadelphia,19104.0,PA,020,metro_core,020
+37575.461538,330196,South Brooklyn Health,Brooklyn,11235.0,NY,480,metro_core,480
+9588.375,050224,Hoag Memorial Hospital Presbyterian,Newport Beach,92663.0,CA,086,metro_core,086
+38701.666667,340091,Cone Health,Greensboro,27401.0,NC,870,metro_core,870
+8927.125,100028,Parrish Medical Center,Titusville,32796.0,FL,682,secondary_flow_metro,682
+23934.941176,340002,Memorial Mission Hospital And Asheville Surgery Ce,Asheville,28801.0,NC,264,metro_core,264
+12165.969697,450193,Chi St Luke's Health Baylor College Of Medicine Me,Houston,77030.0,TX,393,metro_core,393
+7905.6842105,390048,Geisinger-Lewistown Hospital,Lewistown,17044.0,PA,689,micro_core,689
+22979.617647,100057,Adventhealth Waterman,Tavares,32778.0,FL,460,metro_core,460
+23680.647059,440053,Ascension Saint Thomas Rutherford Hospital,Murfreesboro,37129.0,TN,460,secondary_flow_metro,460
+15933.75,100243,Hca Florida Brandon Hospital,Brandon,33511.0,FL,286,metro_core,286
+21616.263158,050573,Eisenhower Medical Center,Rancho Mirage,92270.0,CA,327,metro_core,327
+5377.0769231,490050,Virginia Hospital Center,Arlington,22205.0,VA,101,metro_core,101
+4888.2666667,140122,Uchicago Medicine Adventhealth Hinsdale,Hinsdale,60521.0,IL,176,metro_core,176
+32877.0,100256,Hca Florida Bayonet Point Hospital,Hudson,34667.0,FL,025,metro_core,025
+12381.689655,220073,Morton Hospital,Taunton,2780.0,MA,698,metro_core,698
+18442.045455,140116,Northwestern Medicine Mchenry Hospital,Mchenry,60050.0,IL,468,metro_high_commute,468
+7220.25,080001,Christianacare,Newark,19718.0,DE,546,metro_core,546
+14623.107143,140010,Northshore University Healthsystem Evanston Hosp,Evanston,60201.0,IL,444,metro_core,444
+7972.1818182,360001,Mercy Health-Anderson Hospital,Cincinnati,45255.0,OH,811,metro_core,811
+12965.071429,100157,Lakeland Regional Medical Center,Lakeland,33805.0,FL,357,metro_core,357
+18244.269231,460009,University Of Utah Hospitals And Clinics,Salt Lake City,84132.0,UT,862,metro_core,862
+9328.6666667,050471,Pih Health Good Samaritan Hospital,Los Angeles,90017.0,CA,065,metro_core,065
+22335.4375,330196,South Brooklyn Health,Brooklyn,11235.0,NY,682,metro_core,682
+33877.25,390049,St Luke's Hospital Bethlehem,Bethlehem,18015.0,PA,856,metro_core,856
+11119.25,440048,Baptist Memorial Hospital,Memphis,38120.0,TN,205,metro_core,205
+18483.807692,050039,Enloe Health,Chico,95926.0,CA,493,metro_core,493
+9361.8571429,220029,Anna Jaques Hospital,Newburyport,1950.0,MA,640,metro_core,640
+11509.486842,220060,Beth Israel Deaconess Hospital - Plymouth,Plymouth,2360.0,MA,682,metro_core,682
+5419.7058824,390035,St Luke's Hospital - Upper Bucks Campus,Quakertown,18951.0,PA,641,metro_core,641
+18901.0,450358,Houston Methodist Hospital,Houston,77030.0,TX,100,metro_core,100
+16474.533333,450213,University Health System,San Antonio,78229.0,TX,066,metro_core,066
+16101.153846,180010,Saint Joseph Hospital,Lexington,40504.0,KY,100,metro_core,100
+17069.875,100087,Sarasota Memorial Hospital,Sarasota,34239.0,FL,464,metro_core,464
+44605.44,140281,Northwestern Memorial Hospital,Chicago,60611.0,IL,329,metro_core,329
+12603.454545,100176,Palm Beach Gardens Medical Center,Palm Beach Gardens,33410.0,FL,666,metro_core,Other
+19772.529412,210008,Mercy Medical Center Inc,Baltimore,21202.0,MD,177,metro_core,177
+35179.181818,060113,Adventhealth Littleton,Littleton,80122.0,CO,455,metro_core,455
+8371.4117647,050039,Enloe Health,Chico,95926.0,CA,445,metro_core,445
+15227.230769,050224,Hoag Memorial Hospital Presbyterian,Newport Beach,92663.0,CA,438,metro_core,438
+4390.6,440194,Tristar Hendersonville Medical Center,Hendersonville,37075.0,TN,392,metro_core,392
