@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kensukeumamoshi/Desktop/Project/CMS/src/mlruns/0/3ab6f252d6fd4968a92833301ca9b713/artifacts
+end_time: 1751861713947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ab6f252d6fd4968a92833301ca9b713
+run_name: Optuna-XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751861712327
+status: 3
+tags: []
+user_id: kensukeumamoshi

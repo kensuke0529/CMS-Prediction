@@ -5,8 +5,8 @@ from pathlib import Path
 def data_loader(): 
     dataset_urls = {
     2021: "https://data.cms.gov/data-api/v1/dataset/117d93f2-ce81-40fe-a4d4-8c03203b95e1/data",
-    2022: "https://data.cms.gov/data-api/v1/dataset/46bf50f8-0983-4ca2-b8d5-f2afbbf2e589/data",
-    2023: "https://data.cms.gov/data-api/v1/dataset/690ddc6c-2767-4618-b277-420ffb2bf27c/data"
+    #2022: "https://data.cms.gov/data-api/v1/dataset/46bf50f8-0983-4ca2-b8d5-f2afbbf2e589/data",
+    #2023: "https://data.cms.gov/data-api/v1/dataset/690ddc6c-2767-4618-b277-420ffb2bf27c/data"
     }
 
     limit = 1000
@@ -59,13 +59,15 @@ def data_loader():
     return df 
 
 def main():
+    base_dir = Path(__file__).resolve().parent.parent  # Assuming script is in CMS/src
+    data_dir = base_dir / "data"
+    data_dir.mkdir(parents=True, exist_ok=True)
+    
     df = data_loader()
-    
-    # Ensure 'data' directory exists
-    Path("data").mkdir(parents=True, exist_ok=True)
-    
-    df.to_parquet("data/cms_raw.parquet", index=False)
-    print("Saved to data/cms_raw.parquet")
+    parquet_path = data_dir / "cms_raw.parquet"
+    df.to_parquet(parquet_path, index=False)
+    print(f"Saved to {parquet_path}")
 
+    
 if __name__ == "__main__":
     main()

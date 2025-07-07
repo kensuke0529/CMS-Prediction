@@ -1,0 +1,10 @@
+artifact_location: file:///Users/kensukeumamoshi/Desktop/Project/CMS/src/mlruns/0/models/m-626eca24289a4dd2af6c1126681a6b2e/artifacts
+creation_timestamp: 1751861712339
+experiment_id: '0'
+last_updated_timestamp: 1751861713945
+model_id: m-626eca24289a4dd2af6c1126681a6b2e
+model_type: null
+name: model
+source_run_id: 3ab6f252d6fd4968a92833301ca9b713
+status: 2
+status_message: null

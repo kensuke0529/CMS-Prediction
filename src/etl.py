@@ -67,17 +67,15 @@ def etl(file_path):
     return df 
 
 def main():
-    base = Path().resolve()
+    base = Path(__file__).resolve().parent.parent  
     file_path = base / "data" / "cms_raw.parquet"
     df = etl(file_path)
     
-    # Ensure output directory exists
     (base / "data").mkdir(parents=True, exist_ok=True)
     
     cleaned_path = base / 'data' / "cms_cleaned.parquet"
     df.to_parquet(cleaned_path, index=False)
     print(f"Saved to {cleaned_path}")
-
     
 if __name__ == "__main__":
     main()
