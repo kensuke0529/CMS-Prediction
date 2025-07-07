@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+from pathlib import Path
 
 def data_loader(): 
     dataset_urls = {
@@ -59,6 +60,10 @@ def data_loader():
 
 def main():
     df = data_loader()
+    
+    # Ensure 'data' directory exists
+    Path("data").mkdir(parents=True, exist_ok=True)
+    
     df.to_parquet("data/cms_raw.parquet", index=False)
     print("Saved to data/cms_raw.parquet")
 

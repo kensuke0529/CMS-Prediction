@@ -70,8 +70,14 @@ def main():
     base = Path().resolve()
     file_path = base / "data" / "cms_raw.parquet"
     df = etl(file_path)
-    df.to_parquet(base / 'data'/ "cms_cleaned.parquet", index=False)
-    print(f"Saved to {file_path /'data' / 'cms_cleaned.parquet'}")
+    
+    # Ensure output directory exists
+    (base / "data").mkdir(parents=True, exist_ok=True)
+    
+    cleaned_path = base / 'data' / "cms_cleaned.parquet"
+    df.to_parquet(cleaned_path, index=False)
+    print(f"Saved to {cleaned_path}")
 
+    
 if __name__ == "__main__":
     main()
